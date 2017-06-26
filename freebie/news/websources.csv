@@ -1,0 +1,60 @@
+source_id,name,language,cca,coverage,covered_area,url
+1,Ars Technica,en,US,global,world,http://www.arstechnica.com/
+2,La Nación Argentina,es,AR,global,world,http://www.lanacion.com.ar/
+3,Fortune,en,US,global,world,http://fortune.com/
+4,CNBC,en,US,global,world,http://www.cnbc.com/
+5,TheStreet,en,US,global,world,http://www.thestreet.com/
+6,The Verge,en,US,national,usa,http://www.theverge.com/
+7,FiveThirtyEight,en,US,global,world,http://fivethirtyeight.com/
+8,The New York Times,en,US,national,usa,http://www.nytimes.com/
+9,The Washinton Post,en,US,global,world,https://www.washingtonpost.com/
+10,ABC News,en,US,global,world,http://abcnews.go.com/
+11,CBS News,en,US,global,world,http://www.cbsnews.com/
+12,Polygon,en,US,global,world,http://www.polygon.com/
+13,Bloomberg News,en,US,global,world,http://www.bloomberg.com/
+14,Business Insider,en,US,global,world,http://www.businessinsider.com/
+15,All Africa,en,US,global,world,http://www.allafrica.com/
+16,recode,en,US,global,world,http://recode.net/
+17,Newsweek,en,US,global,world,http://www.newsweek.com/
+18,The Huffington Post,en,US,global,world,http://www.huffingtonpost.com/
+19,Forbes,en,US,global,world,http://www.forbes.com/
+20,Fast Company,en,US,national,usa,http://www.fastcompany.com/
+21,VOX,en,US,national,usa,http://www.vox.com/
+22,Wall Street Journal,en,US,global,world,http://www.wsj.com/
+23,CNN,en,US,global,world,http://cnn.com/
+24,NPR,en,US,global,world,http://www.npr.org/
+25,Medium,en,US,global,world,https://medium.com/
+26,ThinkProgress,en,US,national,united states,https://thinkprogress.org/
+27,The Mic,en,US,global,world,https://mic.com/
+28,Scientific American,en,US,global,world,https://www.scientificamerican.com/
+29,Salon,en,US,global,world,http://www.salon.com/
+30,Chicago Tribune,en,US,national,united states,http://www.chicagotribune.com/
+31,Second Nexus,en,US,global,world,http://secondnexus.com/
+32,Tech Crunch,en,US,global,world,https://techcrunch.com/
+33,Sputnik News,en,US,global,world,https://sputniknews.com/
+34,Politico,en,US,national,united states,http://www.politico.com/
+35,Slate,en,US,global,united states,http://www.slate.com/
+36,The Hill,en,US,global,world,http://thehill.com/
+37,CNET,en,US,global,world,https://www.cnet.com/
+38,Science,en,US,global,world,http://www.sciencemag.org/
+39,Los Angeles Times,en,US,national,united states,http://www.latimes.com/
+40,The Atlantic,en,US,global,world,https://www.theatlantic.com/
+41,USA Today,en,US,national,united states,http://www.usatoday.com/
+42,Gizmodo,en,us,global,world,http://gizmodo.com/
+43,io9,en,us,global,world,http://io9.gizmodo.com/
+44,Mashable,en,us,global,world,http://mashable.com/
+45,New York Post,en,us,global,world,http://nypost.com/
+46,People Magazine,en,us,global,world,http://people.com/
+47,Time Magazine,en,us,global,world,http://time.com/
+48,Billboard,en,us,global,world,http://www.billboard.com/
+49,ESPN,en,us,global,world,http://www.espn.com/
+50,Fox News,en,us,global,world,http://www.foxnews.com/
+51,Lifehacker,en,us,global,world,http://www.lifehacker.co.uk/
+52,The Mirror,uk,uk,global,world,http://www.mirror.co.uk/
+53,MSNBC,en,us,global,world,http://www.msnbc.com/
+54,MTV,en,us,global,world,http://www.mtv.com/
+55,National Geographic,en,us,global,world,http://www.nationalgeographic.com/
+56,The Sun,uk,uk,global,world,https://www.thesun.co.uk/
+57,Times Magazine,en,us,global,world,https://www.thetimes.co.uk/
+58,Wired,en,us,global,world,https://www.wired.com/
+59,Yahoo! News,en,us,global,world,https://yahoo.com/
