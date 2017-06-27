@@ -58,3 +58,19 @@ source_id,name,language,cca,coverage,covered_area,url
 57,Times Magazine,en,us,global,world,https://www.thetimes.co.uk/
 58,Wired,en,us,global,world,https://www.wired.com/
 59,Yahoo! News,en,us,global,world,https://yahoo.com/
+60,Brand Channel,en,US,global,world,http://www.brandchannel.com/
+61,ZDNet,en,US,global,world,http://www.zdnet.com/
+62,Business Standard,en,IN,global,world,http://www.business-standard.com/
+63,Greenpeace,en,NL,global,world,http://www.greenpeace.org/
+64,CBC,en,CA,global,world,http://www.cbc.ca/
+65,Transparency International,en,DE,global,world,http://www.transparency.org/
+66,Thomson Reuters Foundation,en,GB,global,world,http://www.alertnet.org/
+67,Center for Economic and Social Rights,en,US,global,world,http://www.cesr.org/
+68,United Nations Security Council,en,US,global,world,http://www.un.org/
+69,The Register,en,GB,global,world,http://www.theregister.co.uk/
+70,Reuters,en,GB,global,world,http://www.reuters.com/
+71,Associated Press,en,US,global,world,http://hosted.ap.org/
+72,The Guardian,en,GB,global,world,https://www.theguardian.com/
+73,The Independent,en,GB,global,world,http://www.independent.co.uk/
+74,CRN,en,US,global,world,http://www.crn.com/
+75,The Telegraph,en,GB,global,world,http://www.telegraph.co.uk/
