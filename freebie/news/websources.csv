@@ -74,3 +74,16 @@ source_id,name,language,cca,coverage,covered_area,url
 73,The Independent,en,GB,global,world,http://www.independent.co.uk/
 74,CRN,en,US,global,world,http://www.crn.com/
 75,The Telegraph,en,GB,global,world,http://www.telegraph.co.uk/
+76,CRN,en,US,global,world,http://www.crn.com/
+77,CTV News,en,CA,global,world,http://www.ctvnews.ca/
+78,news24,en,ZA,global,world,http://www.news24.com/
+79,The Australian,en,AU,global,world,http://www.theaustralian.com.au/
+80,Sydney Morning Herald,en,AU,national,australia,http://www.smh.com.au/
+81,Der Spiegel (en),en,DE,global,world,http://www.spiegel.de/
+82,Corriere Della Sera (en),en,IT,national,italy,http://www.corriere.it/
+83,Seeking Alpha,en,US,global,world,http://seekingalpha.com/
+84,China Daily,en,CN,national,china,http://www.chinadaily.com.cn/
+85,Shanghai Daily,en,CN,national,china,http://www.shanghaidaily.com/
+86,Triple Pundit,en,US,global,world,http://www.triplepundit.com/
+87,Al Jazeera (en),en,QA,global,world,http://www.aljazeera.com/
+88,The HK Standard,en,HK,national,hongkong,http://www.thestandard.com.hk/
