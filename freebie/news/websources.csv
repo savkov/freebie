@@ -121,3 +121,43 @@ source_id,name,language,cca,coverage,covered_area,url
 120,The Moscow Times,en,RU,national,russia,http://www.themoscowtimes.com/
 121,Nova Gazeta,en,RU,national,russia,http://en.novayagazeta.ru/
 122,Helsinki Times,en,FI,national,finland,http://www.helsinkitimes.fi/
+123,Globe News Wire,en,US,global,world,http://globenewswire.com/
+124,Business of Fashion,en,US,global,world,https://www.businessoffashion.com/
+125,Unicef,en,US,global,world,http://www.unicef.org/
+126,San Francisco Chronicle,en,US,global,world,http://www.sfchronicle.com/
+127,Christian Post,en,US,global,world,http://www.christianpost.com/
+128,Star-Telegram,en,US,global,world,http://www.star-telegram.com/
+129,Public Radio International,en,US,global,world,http://www.pri.org/
+130,The Nation,en,US,global,world,https://www.thenation.com/
+131,Times Record,en,US,global,world,http://www.swtimes.com/
+132,Livescience,en,US,global,world,http://www.livescience.com/
+133,The Daily Beast,en,US,global,world,http://www.thedailybeast.com/
+134,Newsy,en,US,global,world,http://www.newsy.com/
+135,Space.com,en,US,global,world,http://www.space.com/
+136,Pro Publica,en,US,global,world,https://www.propublica.org/
+137,Deseret News,en,US,local,world,http://www.deseretnews.com/
+138,IT Wire ,en,US,global,world,http://www.itwire.com/
+139,Tech News World,en,US,global,world,http://www.technewsworld.com/
+140,EWeek,en,US,global,world,http://www.eweek.com/
+141,Quanta Magazine,en,US,global,world,https://www.quantamagazine.org
+142,Smithsonian.com,en,US,global,world,http://www.smithsonianmag.com/
+143,Orlando Sentinel,en,US,local,world,http://www.orlandosentinel.com/
+144,Newsday,en,US,global,world,http://www.newsday.com/
+145,BNO News,en,US,global,world,http://bnonews.com/
+146,DISCOVER Magazine,en,us,global,world,http://discovermagazine.com/
+147,Adweek,en,us,global,world,http://www.adweek.com/
+148,East Bay Times,en,us,local,world,http://www.eastbaytimes.com/
+149,Empire Magazine,en,us,global,world,http://www.empireonline.com/
+150,E! Magazine,en,us,global,world,http://www.eonline.com/
+151,InStyle,en,us,global,world,http://www.instyle.co.uk/
+152,The Oregonian,en,us,local,world,http://www.oregonlive.com/
+153,Rolling Stone,en,us,global,world,http://www.rollingstone.com/
+154,Science Channel,en,us,global,world,http://www.sciencechannel.com/
+155,Social Media Today,en,us,global,world,http://www.socialmediatoday.com/
+156,US Weekly,en,us,global,world,http://www.usmagazine.com/
+157,Vanity Fair,en,us,global,world,http://www.vanityfair.com/
+158,Engadget,en,us,global,world,https://www.engadget.com/
+159,Financial Times,en,us,global,world,https://www.ft.com/
+160,New Scientist,en,us,global,world,https://www.newscientist.com/
+161,Science News,en,us,global,world,https://www.sciencenews.org/
+162,The White House,en,us,global,world,https://www.whitehouse.gov/
