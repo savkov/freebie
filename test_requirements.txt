@@ -1,3 +1,2 @@
 -r requirements.txt
-wheel
-zest.releaser
+pytest==3.3.0
