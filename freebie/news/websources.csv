@@ -1,179 +1,877 @@
-source_id,name,language,cca,coverage,covered_area,url
-1,Ars Technica,en,US,global,world,http://www.arstechnica.com/
-2,La Nación Argentina,es,AR,global,world,http://www.lanacion.com.ar/
-3,Fortune,en,US,global,world,http://fortune.com/
-4,CNBC,en,US,global,world,http://www.cnbc.com/
-5,TheStreet,en,US,global,world,http://www.thestreet.com/
-6,The Verge,en,US,national,usa,http://www.theverge.com/
-7,FiveThirtyEight,en,US,global,world,http://fivethirtyeight.com/
-8,The New York Times,en,US,national,usa,http://www.nytimes.com/
-9,The Washinton Post,en,US,global,world,https://www.washingtonpost.com/
-10,ABC News,en,US,global,world,http://abcnews.go.com/
-11,CBS News,en,US,global,world,http://www.cbsnews.com/
-12,Polygon,en,US,global,world,http://www.polygon.com/
-13,Bloomberg News,en,US,global,world,http://www.bloomberg.com/
-14,Business Insider,en,US,global,world,http://www.businessinsider.com/
-15,All Africa,en,US,global,world,http://www.allafrica.com/
-16,recode,en,US,global,world,http://recode.net/
-17,Newsweek,en,US,global,world,http://www.newsweek.com/
-18,The Huffington Post,en,US,global,world,http://www.huffingtonpost.com/
-19,Forbes,en,US,global,world,http://www.forbes.com/
-20,Fast Company,en,US,national,usa,http://www.fastcompany.com/
-21,VOX,en,US,national,usa,http://www.vox.com/
-22,Wall Street Journal,en,US,global,world,http://www.wsj.com/
-23,CNN,en,US,global,world,http://cnn.com/
-24,NPR,en,US,global,world,http://www.npr.org/
-25,Medium,en,US,global,world,https://medium.com/
-26,ThinkProgress,en,US,national,united states,https://thinkprogress.org/
-27,The Mic,en,US,global,world,https://mic.com/
-28,Scientific American,en,US,global,world,https://www.scientificamerican.com/
-29,Salon,en,US,global,world,http://www.salon.com/
-30,Chicago Tribune,en,US,national,united states,http://www.chicagotribune.com/
-31,Second Nexus,en,US,global,world,http://secondnexus.com/
-32,Tech Crunch,en,US,global,world,https://techcrunch.com/
-33,Sputnik News,en,US,global,world,https://sputniknews.com/
-34,Politico,en,US,national,united states,http://www.politico.com/
-35,Slate,en,US,global,united states,http://www.slate.com/
-36,The Hill,en,US,global,world,http://thehill.com/
-37,CNET,en,US,global,world,https://www.cnet.com/
-38,Science,en,US,global,world,http://www.sciencemag.org/
-39,Los Angeles Times,en,US,national,united states,http://www.latimes.com/
-40,The Atlantic,en,US,global,world,https://www.theatlantic.com/
-41,USA Today,en,US,national,united states,http://www.usatoday.com/
-42,Gizmodo,en,us,global,world,http://gizmodo.com/
-43,io9,en,us,global,world,http://io9.gizmodo.com/
-44,Mashable,en,us,global,world,http://mashable.com/
-45,New York Post,en,us,global,world,http://nypost.com/
-46,People Magazine,en,us,global,world,http://people.com/
-47,Time Magazine,en,us,global,world,http://time.com/
-48,Billboard,en,us,global,world,http://www.billboard.com/
-49,ESPN,en,us,global,world,http://www.espn.com/
-50,Fox News,en,us,global,world,http://www.foxnews.com/
-51,Lifehacker,en,us,global,world,http://www.lifehacker.co.uk/
-52,The Mirror,uk,uk,global,world,http://www.mirror.co.uk/
-53,MSNBC,en,us,global,world,http://www.msnbc.com/
-54,MTV,en,us,global,world,http://www.mtv.com/
-55,National Geographic,en,us,global,world,http://www.nationalgeographic.com/
-56,The Sun,uk,uk,global,world,https://www.thesun.co.uk/
-57,Times Magazine,en,us,global,world,https://www.thetimes.co.uk/
-58,Wired,en,us,global,world,https://www.wired.com/
-59,Yahoo! News,en,us,global,world,https://yahoo.com/
-60,Brand Channel,en,US,global,world,http://www.brandchannel.com/
-61,ZDNet,en,US,global,world,http://www.zdnet.com/
-62,Business Standard,en,IN,global,world,http://www.business-standard.com/
-63,Greenpeace,en,NL,global,world,http://www.greenpeace.org/
-64,CBC,en,CA,global,world,http://www.cbc.ca/
-65,Transparency International,en,DE,global,world,http://www.transparency.org/
-66,Thomson Reuters Foundation,en,GB,global,world,http://www.alertnet.org/
-67,Center for Economic and Social Rights,en,US,global,world,http://www.cesr.org/
-68,United Nations Security Council,en,US,global,world,http://www.un.org/
-69,The Register,en,GB,global,world,http://www.theregister.co.uk/
-70,Reuters,en,GB,global,world,http://www.reuters.com/
-71,Associated Press,en,US,global,world,http://hosted.ap.org/
-72,The Guardian,en,GB,global,world,https://www.theguardian.com/
-73,The Independent,en,GB,global,world,http://www.independent.co.uk/
-74,CRN,en,US,global,world,http://www.crn.com/
-75,The Telegraph,en,GB,global,world,http://www.telegraph.co.uk/
-76,CRN,en,US,global,world,http://www.crn.com/
-77,CTV News,en,CA,global,world,http://www.ctvnews.ca/
-78,news24,en,ZA,global,world,http://www.news24.com/
-79,The Australian,en,AU,global,world,http://www.theaustralian.com.au/
-80,Sydney Morning Herald,en,AU,national,australia,http://www.smh.com.au/
-81,Der Spiegel (en),en,DE,global,world,http://www.spiegel.de/
-82,Corriere Della Sera (en),en,IT,national,italy,http://www.corriere.it/
-83,Seeking Alpha,en,US,global,world,http://seekingalpha.com/
-84,China Daily,en,CN,national,china,http://www.chinadaily.com.cn/
-85,Shanghai Daily,en,CN,national,china,http://www.shanghaidaily.com/
-86,Triple Pundit,en,US,global,world,http://www.triplepundit.com/
-87,Al Jazeera (en),en,QA,global,world,http://www.aljazeera.com/
-88,The HK Standard,en,HK,national,hongkong,http://www.thestandard.com.hk/
-89,Trends News Agency,en,AZ,global,world,http://en.trend.az/
-90,The East African,en,KE,global,world,http://www.theeastafrican.co.ke/
-91,Algeria Press Service,en,DZ,global,world,http://www.aps.dz/
-92,Global Environment Facility,en,US,global,world,https://www.thegef.org/
-93,Circulate News,en,US,global,world,http://circulatenews.org/
-94,Airports International,en,US,global,world,http://www.airportsinternational.com/
-95,Hindu Business Line,en,IN,national,india,http://www.thehindubusinessline.com/
-96,Intl Business Times India,en,IN,global,world,http://www.ibtimes.co.in/
-97,Agence France Presse,en,FR,global,world,https://www.afp.com/
-98,Folha de S.Paolo (en),en,BR,national,brazil,http://www1.folha.uol.com.br/
-99,Athens News Agency (en),en,GR,national,greece,http://www.amna.gr/
-100,International Business Times US,en,US,global,world,http://www.ibtimes.com/
-101,International Business Times UK,en,GB,global,world,http://www.ibtimes.co.uk/
-102,Human Rights Watch,en,US,global,world,https://www.hrw.org/
-103,The Toronto Star,en,CA,global,world,https://www.thestar.com/
-104,SABC,en,ZA,global,world,http://www.sabc.co.za/
-105,Punch,en,NG,global,world,http://www.punchng.com/
-106,ABC au,en,AU,national,australia,http://www.abc.net.au/
-107,EE Times,en,US,global,world,http://www.eetimes.com/
-108,Asia One,en,SG,global,world,http://asiaone.com/
-109,Above the Law,en,US,global,world,http://abovethelaw.com/
-110,justmeans,en,US,global,world,http://www.justmeans.com/
-111,National Post,en,CA,national,canada,http://www.nationalpost.com/
-112,Xinhua,en,CN,national,china,http://www.chinaview.cn/
-113,Amnesty International,en,GB,global,world,https://www.amnesty.org/
-114,The Rio Times,en,BR,national,brazil,http://riotimesonline.com/
-115,Buenos Aires Herald,en,AR,global,world,http://www.buenosairesherald.com/
-116,The Japan Times,en,JP,global,world,http://www.japantimes.co.jp/
-117,The Daily Nation,en,KE,global,world,http://www.nation.co.ke/
-118,Haaretz,en,IL,national,israel,http://www.haaretz.com/
-119,Pravda,en,RU,global,world,http://www.pravdareport.com/
-120,The Moscow Times,en,RU,national,russia,http://www.themoscowtimes.com/
-121,Nova Gazeta,en,RU,national,russia,http://en.novayagazeta.ru/
-122,Helsinki Times,en,FI,national,finland,http://www.helsinkitimes.fi/
-123,Globe News Wire,en,US,global,world,http://globenewswire.com/
-124,Business of Fashion,en,US,global,world,https://www.businessoffashion.com/
-125,Unicef,en,US,global,world,http://www.unicef.org/
-126,San Francisco Chronicle,en,US,global,world,http://www.sfchronicle.com/
-127,Christian Post,en,US,global,world,http://www.christianpost.com/
-128,Star-Telegram,en,US,global,world,http://www.star-telegram.com/
-129,Public Radio International,en,US,global,world,http://www.pri.org/
-130,The Nation,en,US,global,world,https://www.thenation.com/
-131,Times Record,en,US,global,world,http://www.swtimes.com/
-132,Livescience,en,US,global,world,http://www.livescience.com/
-133,The Daily Beast,en,US,global,world,http://www.thedailybeast.com/
-134,Newsy,en,US,global,world,http://www.newsy.com/
-135,Space.com,en,US,global,world,http://www.space.com/
-136,Pro Publica,en,US,global,world,https://www.propublica.org/
-137,Deseret News,en,US,local,world,http://www.deseretnews.com/
-138,IT Wire ,en,US,global,world,http://www.itwire.com/
-139,Tech News World,en,US,global,world,http://www.technewsworld.com/
-140,EWeek,en,US,global,world,http://www.eweek.com/
-141,Quanta Magazine,en,US,global,world,https://www.quantamagazine.org
-142,Smithsonian.com,en,US,global,world,http://www.smithsonianmag.com/
-143,Orlando Sentinel,en,US,local,world,http://www.orlandosentinel.com/
-144,Newsday,en,US,global,world,http://www.newsday.com/
-145,BNO News,en,US,global,world,http://bnonews.com/
-146,DISCOVER Magazine,en,us,global,world,http://discovermagazine.com/
-147,Adweek,en,us,global,world,http://www.adweek.com/
-148,East Bay Times,en,us,local,world,http://www.eastbaytimes.com/
-149,Empire Magazine,en,us,global,world,http://www.empireonline.com/
-150,E! Magazine,en,us,global,world,http://www.eonline.com/
-151,InStyle,en,us,global,world,http://www.instyle.co.uk/
-152,The Oregonian,en,us,local,world,http://www.oregonlive.com/
-153,Rolling Stone,en,us,global,world,http://www.rollingstone.com/
-154,Science Channel,en,us,global,world,http://www.sciencechannel.com/
-155,Social Media Today,en,us,global,world,http://www.socialmediatoday.com/
-156,US Weekly,en,us,global,world,http://www.usmagazine.com/
-157,Vanity Fair,en,us,global,world,http://www.vanityfair.com/
-158,Engadget,en,us,global,world,https://www.engadget.com/
-159,Financial Times,en,us,global,world,https://www.ft.com/
-160,New Scientist,en,us,global,world,https://www.newscientist.com/
-161,Science News,en,us,global,world,https://www.sciencenews.org/
-162,The White House,en,us,global,world,https://www.whitehouse.gov/
-163,BBC,en,GB,global,world,http://www.bbc.co.uk/
-164,Financial Times INTL,en,GB,global,world,http://www.ft.com/
-165,Vice Motherboard,en,GB,global,world,http://motherboard.vice.com/
-166,Tax News,en,GB,global,world,http://www.tax-news.com/
-167,Techradar,en,GB,global,world,http://www.techradar.com/
-168,Frontier Magazine,en,GB,global,world,http://www.frontiermagazine.co.uk/
-169,Breaking Travel News,en,GB,global,world,http://www.breakingtravelnews.com/
-170,Business Traveller,en,GB,global,world,https://www.businesstraveller.com/
-171,Privacy International,en,GB,global,world,https://www.privacyinternational.org/
-172,Cafe Babel,en,GB,global,world,http://www.cafebabel.co.uk/
-173,Daily Record,en,GB,global,world,http://www.dailyrecord.co.uk/
-174,Money Week,en,GB,global,world,http://moneyweek.com/
-175,Anna Aero,en,GB,global,world,http://www.anna.aero/
-176,Asharq Al-Awsat,en,GB,global,world,http://english.aawsat.com/
-177,The Economist,en,GB,global,world,http://www.economist.com/
-178,World Nuclear News,en,GB,global,world,http://www.world-nuclear-news.org/
+source_id,name,language,cca,coverage,covered_area,url,ignore
+1,3BL,en,US,global,world,https://www.3blmedia.com/,TRUE
+10,Algeria Press Service,en,DZ,global,world,http://www.aps.dz/,FALSE
+100,Action Aid,en,ZA,global,world,http://www.actionaid.org/,TRUE
+101,Thomson Reuters Foundation,en,GB,global,world,http://www.alertnet.org/,FALSE
+102,Center for Biological Diversity,en,US,global,world,http://www.biologicaldiversity.org/,TRUE
+103,Center for Economic and Social Rights,en,US,global,world,http://www.cesr.org/,FALSE
+104,Clean Clothes Campaign,en,NL,global,world,https://www.cleanclothes.org/,TRUE
+105,Earthrights International,en,US,global,world,http://www.earthrights.org/,TRUE
+106,BirdLife International,en,GB,global,world,http://www.birdlife.org/,TRUE
+107,Equal Employment Opportunity Commission,en,US,global,world,https://www1.eeoc.gov/,TRUE
+108,Fauna and Flora International,en,GB,global,world,http://www.fauna-flora.org/,TRUE
+109,International Labour Organisation,en,CH,global,world,http://www.ilo.org/,TRUE
+11,BBC,en,GB,global,world,http://www.bbc.co.uk/,FALSE
+110,International Rivers,en,US,global,world,http://www.irn.org/,TRUE
+111,BankTrack,en,NL,global,world,http://www.banktrack.org/,TRUE
+112,NGO Shipbreaking Platform,en,BE,global,world,http://www.shipbreakingplatform.org/,TRUE
+113,Shwe Gas movement,en,MM,global,world,http://www.shwe.org/,TRUE
+114,Southern Africa Resource Watch,en,ZA,national,south africa,http://www.sarwatch.org/,TRUE
+115,Survival International,en,GB,global,world,http://www.survival-international.org/,TRUE
+116,Tax Justice Network,en,GB,global,world,http://www.taxjustice.net/,TRUE
+117,Cadena Ser,es,ES,global,world,http://cadenaser.com/,FALSE
+118,United Nations Security Council,en,US,global,world,http://www.un.org/,FALSE
+119,ECA Watch,en,CA,global,world,http://www.eca-watch.org/,TRUE
+12,Bulgarian Telegraph Agency,en,BG,national,bulgaria,http://www.bta.bg/,FALSE
+120,The Verge,en,US,national,usa,http://www.theverge.com/,FALSE
+121,Ars Technica,en,US,global,world,http://www.arstechnica.com/,FALSE
+122,Polygon,en,US,global,world,http://www.polygon.com/,FALSE
+123,FiveThirtyEight,en,US,global,world,http://fivethirtyeight.com/,FALSE
+124,Focus Gaming News,en,US,global,world,http://focusgn.com/,TRUE
+125,The Register,en,GB,global,world,http://www.theregister.co.uk/,FALSE
+126,Ecouterre,en,US,global,world,http://www.ecouterre.com/,TRUE
+127,Ecotextile,en,NL,global,world,http://www.ecotextile.com/,TRUE
+128,Sourcing Journal,en,US,global,world,https://www.sourcingjournalonline.com/,TRUE
+129,VOX,en,US,national,usa,http://www.vox.com/,FALSE
+13,Buenos Aires Herald,en,AR,global,world,http://www.buenosairesherald.com/,FALSE
+130,The Drive,en,US,global,world,http://www.thedrive.com/,TRUE
+131,FiercePharma,en,US,global,world,http://www.fiercepharma.com/,TRUE
+132,FierceBiotech,en,US,global,world,http://www.fiercebiotech.com/,TRUE
+133,Airports World,en,GB,global,world,http://www.airport-world.com/,TRUE
+134,Airports International,en,US,global,world,http://www.airportsinternational.com/,FALSE
+135,Airport Watch,en,GB,global,world,http://www.airportwatch.org.uk/,TRUE
+136,Airport Business,en,GB,global,world,http://www.airport-business.com/,TRUE
+137,Airport Council International,en,BE,global,world,https://www.aci-europe.org/,TRUE
+138,ITBOB,en,US,global,world,http://www.itbestofbreed.com/,TRUE
+139,NPR,en,US,global,world,http://www.npr.org/,FALSE
+14,CBC,en,CA,global,world,http://www.cbc.ca/,FALSE
+140,NPR,en,US,global,world,https://medium.com/,FALSE
+141,El Pais,es,ES,global,world,http://economia.elpais.com/,FALSE
+142,El Cronista,es,MX,global,world,http://elcronista.mx/,FALSE
+143,Investing.com,es,ES,global,world,http://es.investing.com/,FALSE
+144,ACIR,es,MX,global,world,http://grupoacir.com.mx/,FALSE
+145,Sofia Globe,en,BG,national,bulgaria,http://www.sofiaglobe.com/,FALSE
+146,Offshore Energy Today,en,NL,global,world,http://www.offshoreenergytoday.com/,TRUE
+147,Offshore Engineer,en,US,global,world,http://www.oedigital.com/,TRUE
+148,Offshore Technology,en,GB,global,world,http://www.offshore-technology.com/,TRUE
+149,Natural Gas World,en,US,global,world,http://www.naturalgasworld.com/,TRUE
+15,CBS News,en,US,global,world,http://www.cbsnews.com/,FALSE
+150,bne Intellinews,en,US,global,world,http://www.intellinews.com/,FALSE
+151,Maritime Herald,en,BG,global,world,http://www.maritimeherald.com/,TRUE
+152,See News,en,BG,regional,eastern europe,https://www.seenews.com,FALSE
+153,Oil & Gas Journal,en,US,global,world,http://www.ogj.com/,TRUE
+154,USA Today,en,US,national,united states,http://www.usatoday.com/,FALSE
+155,Los Angeles Times,en,US,national,united states,http://www.latimes.com/,FALSE
+156,The Economist,en,GB,global,world,http://www.economist.com/,FALSE
+157,The Times of India,en,IN,global,world,http://timesofindia.indiatimes.com/,FALSE
+158,Chicago Tribune,en,US,national,united states,http://www.chicagotribune.com/,FALSE
+159,Houston Chronicle,en,US,national,united states,http://www.chron.com/,FALSE
+16,China Daily,en,CN,national,china,http://www.chinadaily.com.cn/,FALSE
+160,Daily Mail ,en,GB,national,united kingdom,http://www.dailymail.co.uk/,FALSE
+161,Live Mint,en,IN,global,world,http://www.livemint.com/,FALSE
+162,Nikkei Asia Review,en,JP,regional,asia,http://asia.nikkei.com/,FALSE
+163,The Asahi Shimbun,en,JP,regional,asia,http://www.asahi.com/ajw/,FALSE
+164,The Local,en,DE,national,germany,https://www.thelocal.de/,FALSE
+165,Deutsche Welle,en,DE,global,world,http://www.dw.com/,FALSE
+166,The Olive Press,en,ES,national,spain,http://www.theolivepress.es/,FALSE
+167,Euro Weekly,en,ES,regional,europe,http://www.euroweeklynews.com/,FALSE
+168,Techradar,en,GB,global,world,http://www.techradar.com/,FALSE
+169,Frontier Magazine,en,GB,global,world,http://www.frontiermagazine.co.uk/,FALSE
+17,Corriere Della Sera (en),en,IT,national,italy,http://www.corriere.it/,FALSE
+170,Breaking Travel News,en,GB,global,world,http://www.breakingtravelnews.com/,FALSE
+171,Anna Aero,en,GB,global,world,http://www.anna.aero/,FALSE
+172,International Airport Review,en,GB,global,world,http://www.internationalairportreview.com/,TRUE
+173,Aviation Week,en,US,global,world,http://aviationweek.com/,TRUE
+174,Aviation Pros,en,US,global,world,http://www.aviationpros.com/,TRUE
+175,Airport Technology,en,GB,global,world,http://www.airport-technology.com/,TRUE
+176,Travel Daily News,en,CY,global,world,http://www.traveldailynews.com/,FALSE
+177,MRO Network,en,US,global,world,http://mro-network.com,TRUE
+178,Aircargo News,en,GB,global,world,http://www.aircargonews.net/,TRUE
+179,Business Traveller,en,GB,global,world,https://www.businesstraveller.com/,FALSE
+18,CRN,en,US,global,world,http://www.crn.com/,FALSE
+180,Decentralized Energy,en,GB,global,world,http://www.decentralized-energy.com/,TRUE
+181,Rigzone,en,US,global,world,http://www.rigzone.com/,TRUE
+182,Energy Pedia,en,GB,global,world,http://www.energy-pedia.com/,TRUE
+183,Focus Online,de,DE,global,world,http://www.focus.de/,FALSE
+184,Airliners,de,DE,national,germany,http://www.airliners.de/,FALSE
+185,Bayerischer Rundfunk,de,DE,national,germany,http://www.br.de/,FALSE
+186,Merkur,de,DE,national,germany,http://www.merkur.de/,FALSE
+187,Augsbuger Allgemeine,de,DE,national,germany,http://www.augsburger-allgemeine.de/,FALSE
+188,TZ,de,DE,national,germany,http://www.tz.de/,FALSE
+189,Abendzeitung Muenchen,de,DE,national,germany,http://www.abendzeitung-muenchen.de/,FALSE
+19,CSR Newswire,en,US,global,world,http://www.csrwire.com/,TRUE
+190,Airportzentrale,de,DE,national,germany,http://www.airportzentrale.de/,FALSE
+191,Bayernkurier,de,DE,national,germany,https://www.bayernkurier.de/,FALSE
+192,Aero,de,DE,national,germany,http://www.aero.de/,FALSE
+193,Sueddeutsche Zeitung,de,DE,global,world,http://www.sueddeutsche.de/,FALSE
+194,Wirtschaftswoche,de,DE,global,world,http://www.wiwo.de/,FALSE
+195,IHS Airport 360 ,en,GB,global,world,http://www.ihsairport360.com/,TRUE
+196,Airport Revenue News,en,US,global,world,https://www.airportrevenuenews.com,TRUE
+197,La Nación Argentina,es,AR,global,world,http://www.lanacion.com.ar/,FALSE
+198,El Comercio Peru Mercados Feed,es,PE,global,world,http://elcomercio.pe/,FALSE
+199,Terra Peru,es,PE,global,world,https://www.terra.com.pe/,FALSE
+2,ABC News,en,US,global,world,http://abcnews.go.com/,FALSE
+20,CTV News,en,CA,global,world,http://www.ctvnews.ca/,FALSE
+200,El Pais Uruguay,es,UY,global,world,http://www.elpais.com.uy/,FALSE
+201,La REd 21,es,UY,global,world,http://www.lr21.com.uy/,FALSE
+202,5 dias,es,PY,global,world,http://www.5dias.com.py/,FALSE
+203,Fortune,en,US,global,world,http://fortune.com/,FALSE
+204,Peru 21,es,PE,global,world,http://peru21.pe/,FALSE
+205,TN.com,es,AR,global,world,http://tn.com.ar/,FALSE
+206,RPP,es,PE,global,world,http://rpp.pe/,FALSE
+207,Circulate News,en,US,global,world,http://circulatenews.org/,FALSE
+208,20 minutos,es,ES,global,world,http://www.20minutos.es/,FALSE
+209,ABC,es,ES,global,world,http://www.abc.es/,FALSE
+21,Eco-business,en,SG,global,world,http://www.eco-business.com/,TRUE
+210,Cinco D�_as,es,ES,national,spain,http://cincodias.com/,FALSE
+211,El Economista,es,ES,national,spain,http://www.eleconomista.es/,FALSE
+212,Expansi�_n,es,ES,global,world,http://www.expansion.com/,FALSE
+213,Huffington Post Espa̱a,es,ES,global,world,http://www.huffingtonpost.es/,FALSE
+214,La Raz�_n Espa̱a,es,ES,global,world,http://www.larazon.es/,FALSE
+215,La Jornada,es,MX,global,world,http://www.jornada.unam.mx/,FALSE
+216,Reforma,es,MX,global,world,http://www.reforma.com/,FALSE
+217,La Voz,es,AR,global,world,http://www.lavoz.com.ar/,FALSE
+218,Ambito,es,AR,global,world,http://www.ambito.com/,FALSE
+219,Clar�_n,es,AR,national,argentina,http://www.clarin.com/,FALSE
+22,Ethical Corporation,en,GB,global,world,http://www.ethicalcorp.com/,TRUE
+220,Urgente 24,es,AR,global,world,http://www.urgente24.com/,FALSE
+221,minutouno,es,AR,global,world,http://www.minutouno.com/,FALSE
+222,Perfil,es,AR,global,world,http://www.perfil.com/,FALSE
+223,El Espectador,es,CO,global,world,http://www.elespectador.com/,FALSE
+224,El Tiempo,es,CO,global,world,http://www.eltiempo.com/,FALSE
+225,Portafolio,es,CO,global,world,http://www.portafolio.co/,FALSE
+226,El Heraldo,es,CO,global,world,http://www.elheraldo.co/,FALSE
+227,El Universal,es,VE,global,world,http://www.eluniversal.com/,FALSE
+228,El Mundo Venezuela,es,VE,global,world,http://www.elmundo.com.ve/,FALSE
+229,�_ltimas Noticias,es,VE,global,world,http://www.ultimasnoticias.com.ve/,FALSE
+23,Forbes,en,US,global,world,http://www.forbes.com/,FALSE
+230,Gestion Peru Economia feed,es,PE,global,world,http://gestion.pe/,FALSE
+231,El Observador Uruguay,es,UY,global,world,http://www.elobservador.com.uy/,FALSE
+232,Agence France Presse,en,FR,global,world,https://www.afp.com/,FALSE
+233,supplymanagement,en,GB,global,world,http://www.cips.org/,TRUE
+234,Columbia Journalism Review,en,US,global,world,http://www.cjr.org/,TRUE
+235,Folha de S.Paolo (en),en,BR,national,brazil,http://www1.folha.uol.com.br/,FALSE
+236,Athens News Agency (en),en,GR,national,greece,http://www.amna.gr/,FALSE
+237,Human Rights Watch,en,US,global,world,https://www.hrw.org/,FALSE
+238,CIWM Journal,en,GB,global,world,http://www.ciwm-journal.co.uk/,TRUE
+239,Planning Resource,en,GB,global,world,http://www.planningresource.co.uk/,TRUE
+24,GreenBiz,en,US,global,world,https://www.greenbiz.com/,FALSE
+240,EE Times,en,US,global,world,http://www.eetimes.com/,FALSE
+241,Business Green,en,GB,global,world,http://www.businessgreen.com/,TRUE
+242,Renewable Energy from Waste,en,US,global,world,http://www.rewmag.com/,TRUE
+243,Asia One,en,SG,global,world,http://asiaone.com/,FALSE
+244,Above the Law,en,US,global,world,http://abovethelaw.com/,FALSE
+245,Open Source,en,US,global,world,https://opensource.com/,TRUE
+246,Bloomberg News,en,US,global,world,http://www.bloomberg.com/,FALSE
+247,business insider,en,US,global,world,http://www.businessinsider.com/,FALSE
+248,justmeans,en,US,global,world,http://www.justmeans.com/,FALSE
+249,National Post,en,CA,national,canada,http://www.nationalpost.com/,FALSE
+25,Greenpeace,en,NL,global,world,http://www.greenpeace.org/,FALSE
+250,Xinhua,en,CN,national,china,http://www.chinaview.cn/,FALSE
+251,The Norway Post,en,NO,national,norway,http://www.norwaypost.no/,FALSE
+252,El Confidencial,es,ES,global,world,http://www.elconfidencial.com/,FALSE
+253,La Vanguardia,es,ES,global,world,http://www.lavanguardia.com/,FALSE
+254,Libertad Digital,es,ES,global,world,http://www.libertaddigital.com/,FALSE
+255,El Financiero,es,MX,global,world,http://www.elfinanciero.com.mx/,FALSE
+256,El Universal,es,MX,global,world,http://eluniversal.com.mx/,FALSE
+257,Exc̩lsior,es,MX,national,mexico,http://www.excelsior.com.mx/,FALSE
+258,Mundo Ejecutivo,es,MX,global,world,http://mundoejecutivo.com.mx/,FALSE
+259,SDP noticias,es,MX,global,world,http://www.sdpnoticias.com/,FALSE
+26,Haaretz,en,IL,national,israel,http://www.haaretz.com/,FALSE
+260,El Cronista Comercial,es,AR,global,world,http://www.cronista.com/,FALSE
+261,Infobae,es,AR,global,world,http://www.infobae.com/,FALSE
+262,Página 12,es,AR,national,argentina,http://www.pagina12.com.ar/,FALSE
+263,La Razón Argentina,es,AR,global,world,http://larazon.com.ar/,FALSE
+264,iProfesional,es,AR,global,world,http://www.iprofesional.com/,FALSE
+265,El Universal,es,CO,global,world,http://www.eluniversal.com.co/,FALSE
+266,El Nuevo Siglo,es,CO,global,world,http://www.elnuevosiglo.com.co/,FALSE
+267,Banca y Negocios,es,VE,global,world,http://www.bancaynegocios.com/,FALSE
+268,Finanzas Digital,es,VE,global,world,http://www.finanzasdigital.com/,FALSE
+269,Tal Cual Digital,es,VE,global,world,http://www.talcualdigital.com/,FALSE
+27,Helsinki Times,en,FI,national,finland,http://www.helsinkitimes.fi/,FALSE
+270,Semana Economica,es,PE,global,world,http://semanaeconomica.com/,FALSE
+271,Diario del Pueblo,es,UY,global,world,http://www.diarioelpueblo.com.uy/,FALSE
+272,recode,en,US,global,world,http://recode.net/,FALSE
+273,Newsweek,en,US,global,world,http://www.newsweek.com/,FALSE
+274,The News,en,MX,global,world,http://thenews.mx/,FALSE
+275,The Japan News,en,JP,national,japan,http://the-japan-news.com/,FALSE
+276,Tehran Times,en,IR,global,world,http://www.tehrantimes.com/,FALSE
+277,Globe News Wire,en,US,global,world,http://globenewswire.com/,FALSE
+278,El Pa�_s,es,ES,global,world,http://elpais.com/,FALSE
+279,El Diario,es,ES,global,world,http://www.eldiario.es/,FALSE
+28,The Huffington Post,en,US,global,world,http://www.huffingtonpost.com/,FALSE
+280,Proceso,es,MX,global,world,http://www.proceso.com.mx/,FALSE
+281,SinEmbargo MX,es,MX,global,world,http://www.sinembargo.mx/,FALSE
+282,Vanguardia,es,CO,global,world,http://www.vanguardia.com/,FALSE
+283,El Nacional,es,VE,global,world,http://www.el-nacional.com/,FALSE
+284,Producto,es,VE,global,world,http://www.producto.com.ve/,FALSE
+285,La Industria,es,PE,global,world,http://laindustria.pe/,FALSE
+286,South China Morning Star,en,,global,world,http://www.scmp.com/,FALSE
+287,180,es,UY,global,world,http://180.com.uy/,FALSE
+288,El Economista M̩xico,es,MX,global,world,http://eleconomista.com.mx/,FALSE
+289,Terra,es,CO,global,world,https://www.terra.com.co/,FALSE
+29,Hurriet Daily News,en,TR,national,turkey,http://www.hurriyetdailynews.com/,FALSE
+290,Food Manufacture,en,GB,national,uk,http://www.foodmanufacture.co.uk/,TRUE
+291,Vice Motherboard,en,GB,global,world,http://motherboard.vice.com/,FALSE
+292,Intereconomia,es,ES,global,world,http://intereconomia.com/,FALSE
+293,Noticias Bancarias,es,ES,global,world,http://noticiasbancarias.com/,FALSE
+294,Canal Once,es,MX,global,world,http://oncetv-ipn.net/,FALSE
+295,Palco 23,es,ES,global,world,http://palco23.com/,FALSE
+296,Grupo Radio Centro,es,MX,global,world,http://radiocentro.com/,FALSE
+297,Radio Trece,es,MX,global,world,http://radiotrece.com.mx/,FALSE
+298,RED FM,es,MX,global,world,http://redfm.mx/,FALSE
+299,Sabemos Digital,es,ES,global,world,http://sabemos.es/,FALSE
+3,All Africa,en,US,global,world,http://www.allafrica.com/,FALSE
+30,Intl Business Times India,en,IN,global,world,http://www.ibtimes.co.in/,FALSE
+300,ABC Sevilla,es,ES,global,world,http://sevilla.abc.es/,FALSE
+301,Siempre 889,es,MX,global,world,http://siempre889.mx/,FALSE
+302,Valencia Plaza,es,ES,global,world,http://valenciaplaza.com/,FALSE
+303,W Radio,es,MX,global,world,http://wradio.com.mx/,FALSE
+304,20 Minutos Mexico,es,MX,global,world,http://www.20minutos.com.mx/,FALSE
+305,Antena 3,es,ES,global,world,http://www.antena3.com/,FALSE
+306,Bolsamania,es,ES,global,world,http://www.bolsamania.com/,FALSE
+307,Canal 22,es,MX,global,world,http://www.canal22.org.mx/,FALSE
+308,Canal Sur,es,ES,global,world,http://www.canalsur.es/,FALSE
+309,Canal Sur Radio,es,ES,global,world,http://www.canalsur.es/radio-555.html,FALSE
+31,The Independent,en,GB,global,world,http://www.independent.co.uk/,FALSE
+310,Capital FM,es,MX,global,world,http://www.capitalfm.mx/morelia/,FALSE
+311,Catalunya Radio,es,ES,global,world,http://www.ccma.cat/catradio/,FALSE
+312,TV3,es,ES,global,world,http://www.ccma.cat/tv3/,FALSE
+313,CLM24,es,ES,global,world,http://www.clm24.es/,FALSE
+314,Cadena Cope,es,ES,global,world,http://www.cope.es/,FALSE
+315,Radio Galega,es,ES,global,world,http://www.crtvg.es/rg,FALSE
+316,Televison de Galicia,es,ES,global,world,http://www.crtvg.es/tvg,FALSE
+317,Cuatro,es,ES,global,world,http://www.cuatro.com/,FALSE
+318,El Diario Vasco,es,ES,global,world,http://www.diariovasco.com/,FALSE
+319,E-Consulta,es,MX,global,world,http://www.e-consulta.com/,FALSE
+32,The Japan Times,en,JP,global,world,http://www.japantimes.co.jp/,FALSE
+320,Economia Hoy,es,MX,global,world,http://www.economiahoy.mx/,FALSE
+321,EFE,es,ES,global,world,http://www.efe.com/,FALSE
+322,EITB,es,ES,national,spain,http://www.eitb.eus/,FALSE
+323,Radio Euskadi,es,ES,national,spain,http://www.eitb.eus/es/radio/,FALSE
+324,El Correo,es,ES,global,world,http://www.elcorreo.com/,FALSE
+325,El Espanol,es,ES,global,world,http://www.elespanol.com/,FALSE
+326,El Financiero Bloomberg,es,MX,global,world,http://www.elfinanciero.com.mx/tv,FALSE
+327,El Mundo,es,ES,global,world,http://www.elmundo.es/,FALSE
+328,El Universal Mexico,es,MX,global,world,http://www.eluniversal.com.mx/,FALSE
+329,Estrategias de inversion,es,ES,global,world,http://www.estrategiasdeinversion.com/,FALSE
+33,Japan Today,en,JP,national,japan,http://www.japantoday.com/,FALSE
+330,Faro de Vigo,es,ES,national,spain,http://www.farodevigo.es/,FALSE
+331,Finanzas,es,ES,national,spain,http://www.finanzas.com/,FALSE
+332,Hispanidad,es,ES,national,spain,http://www.hispanidad.com/,FALSE
+333,Imagen Telecomunicaciones,es,MX,national,mexico,http://www.imagen.com.mx/,FALSE
+334,Grupo Imagen Radio,es,MX,national,mexico,http://www.imagenradio.com.mx/,FALSE
+335,90.5 Radio,es,MX,national,mexico,http://www.imagenradio.com.mx/transmision-en-vivo,FALSE
+336,Instituto Mexicano de la Radio,es,MX,national,mexico,http://www.imer.mx/,FALSE
+337,La Jornada,es,MX,global,world,http://www.jornada.com.mx/,FALSE
+338,La Informacion,es,ES,global,world,http://www.lainformacion.com/,FALSE
+339,La Opinion,es,ES,national,spain,http://www.laopinion.es/,FALSE
+34,The Daily Nation,en,KE,global,world,http://www.nation.co.ke/,FALSE
+340,La Sexta,es,ES,national,spain,http://www.lasexta.com/,FALSE
+341,Las Provincias,es,ES,global,world,http://www.lasprovincias.es/,FALSE
+342,La voz de galicia,es,ES,national,spain,http://www.lavozdegalicia.es/,FALSE
+343,Madridiario,es,ES,national,spain,http://www.madridiario.es/,FALSE
+344,Milenio,es,MX,global,world,http://www.milenio.com/,FALSE
+345,MVS Radio,es,MX,national,mexico,http://www.mvsradio.com/,FALSE
+346,NRM Comunicaciones,es,MX,national,mexico,http://www.nrm.com.mx/,FALSE
+347,ABC Radio,es,MX,national,mexico,http://www.oem.com.mx/abcradio/,FALSE
+348,Onda Cero,es,ES,national,spain,http://www.ondacero.es/,FALSE
+349,Proyecto 40,es,MX,national,mexico,http://www.proyecto40.com/,FALSE
+35,news24,en,ZA,global,world,http://www.news24.com/,FALSE
+350,Radio Formula,es,MX,national,mexico,http://www.radioformula.com.mx/,FALSE
+351,Reporte 98.5,es,MX,national,mexico,http://www.reporte.com.mx/,FALSE
+352,RTVE,es,ES,national,spain,http://www.rtve.es/,FALSE
+353,Superdeporte,es,ES,national,spain,http://www.superdeporte.es/,FALSE
+354,Tele Cinco,es,ES,national,spain,http://www.telecinco.es/,FALSE
+355,Tele Madrid,es,ES,local,spain,http://www.telemadrid.es/,FALSE
+356,Televisa,es,ES,national,spain,http://www.televisa.com/,FALSE
+357,TV Azteca,es,MX,national,mexico,http://www.tvazteca.com/,FALSE
+358,Vozpopuli,es,ES,national,spain,http://www.vozpopuli.com/,FALSE
+359,BBVA Open 4U,es,ES,global,world,https://bbvaopen4u.com/,FALSE
+36,The New York Times,en,US,national,usa,http://www.nytimes.com/,FALSE
+360,Alerta Chiapas,es,MX,national,mexico,https://www.alertachiapas.com,FALSE
+361,Capital Madrid,es,ES,local,spain,https://www.capitalmadrid.com,FALSE
+362,Reason.com,en,US,national,united states,http://reason.com/,TRUE
+363,America Magazine,en,US,national,united states,http://www.americamagazine.org/,FALSE
+364,Elektec,en,US,national,united states,https://electrek.co,TRUE
+365,Colombia.com,es,CO,national,colombia,http://www.colombia.com/,FALSE
+366,Dinero,es,CO,global,world,http://www.dinero.com/,FALSE
+367,El Colombiano,es,CO,global,world,http://www.elcolombiano.com/,FALSE
+368,El Pais Colombia,es,CO,national,colombia,http://www.elpais.com.co/,FALSE
+369,Terra Colombia,es,CO,national,colombia,https://terra.com.co/,FALSE
+37,New Zealand Herald,en,NZ,national,new zealand,http://www.nzherald.co.nz/,FALSE
+370,Cable Noticias,es,CO,global,world,http://www.cablenoticias.tv/,FALSE
+371,Canal tr3ce,es,CO,national,colombia,http://www.canaltr3ce.co/,FALSE
+372,Caracol,es,CO,national,colombia,http://www.caracoltv.com/,FALSE
+373,El Tiempo Television,es,CO,global,world,http://www.eltiempo.com/eltiempo-television,FALSE
+374,Canal Tro,es,CO,national,colombia,http://www.canaltro.com/,FALSE
+375,Canal RCN,es,CO,national,colombia,http://www.canalrcn.com/,FALSE
+376,Canal Uno,es,CO,national,colombia,http://www.canaluno.com.co/,FALSE
+377,City TV,es,CO,national,colombia,http://www.citytv.com.co/,FALSE
+378,El Dia,es,CO,national,colombia,http://www.eldia.tv/,FALSE
+379,E! Entertainment,es,CO,national,colombia,http://la.eonline.com/andes/,FALSE
+38,Pravda,en,RU,global,world,http://www.pravdareport.com/,FALSE
+380,NTN24,es,CO,national,colombia,http://www.ntn24.com/,FALSE
+381,Teleamiga,es,CO,national,colombia,http://www.teleamiga.com/,FALSE
+382,Tele Antioquia,es,CO,national,colombia,http://www.teleantioquia.co/,FALSE
+383,Telecafe,es,CO,national,colombia,http://telecafe.gov.co/,FALSE
+384,Telecaribe,es,CO,national,colombia,http://www.telecaribe.co/,FALSE
+385,Telepacifico,es,CO,national,colombia,http://www.telepacifico.com/,FALSE
+386,Antena 2,es,CO,national,colombia,http://www.antena2.com.co/,FALSE
+387,Blu Radio,es,CO,national,colombia,http://www.bluradio.com/,FALSE
+388,Caracol Radio,es,CO,national,colombia,http://caracol.com.co/,FALSE
+389,Colmundo,es,CO,national,colombia,http://www.colmundoradio.com.co/,FALSE
+39,Reuters,en,GB,global,world,http://www.reuters.com/,FALSE
+390,La Carinosa,es,CO,national,colombia,http://www.lacarinosa.com/,FALSE
+391,LA FM,es,CO,national,colombia,http://www.lafm.com.co/,FALSE
+392,W Radio Colombia,es,CO,national,colombia,http://www.wradio.com.co/,FALSE
+393,Melodia Radio,es,CO,national,colombia,http://www.cadenamelodia.com/,FALSE
+394,RCN Radio Clasica,es,CO,national,colombia,http://www.rcnclasica.com/,FALSE
+395,Radio Santa Fe,es,CO,national,colombia,http://www.radiosantafe.com/,FALSE
+396,La Superestacion,es,CO,national,colombia,http://www.cadenasuper.com/,FALSE
+397,Todelar Radio,es,CO,national,colombia,http://www.todelar.com/,FALSE
+398,Extra,es,CO,national,colombia,http://boyaca.extra.com.co/,FALSE
+399,Pagina 12,es,AR,global,world,https://www.pagina12.com.ar/,FALSE
+4,CNN,en,US,global,world,http://cnn.com/,FALSE
+40,Salon,en,US,global,world,http://www.salon.com/,FALSE
+400,Ole,es,AR,national,argentina,http://www.ole.com.ar/,FALSE
+401,La Razon Argentina,es,AR,global,world,http://www.larazon.com.ar/,FALSE
+402,Diario 26,es,AR,national,argentina,http://www.diario26.com/,FALSE
+403,America TV,es,AR,national,argentina,http://www.americatv.com.ar/,FALSE
+404,c5n,es,AR,national,argentina,http://www.c5n.com/,FALSE
+405,TV Publica,es,AR,national,argentina,http://www.tvpublica.com.ar/,FALSE
+406,Canal 9,es,AR,national,argentina,http://www.canal9.com.ar/,FALSE
+407,El Trece,es,AR,national,argentina,http://www.eltrecetv.com.ar/,FALSE
+408,Cronica TV,es,AR,national,argentina,http://www.cronica.com.ar/,FALSE
+409,Telefe,es,AR,national,argentina,http://telefe.com/,FALSE
+41,Shanghai Daily,en,CN,national,china,http://www.shanghaidaily.com/,FALSE
+410,Blue FM,es,AR,national,argentina,http://bluefm.com.ar/home/,FALSE
+411,Radio Continental,es,AR,national,argentina,http://www.continental.com.ar/,FALSE
+412,Radio del Plata,es,AR,national,argentina,http://www.amdelplata.com/,FALSE
+413,Frecuencia Zero,es,AR,national,argentina,http://www.frecuenciazero.com.ar/,FALSE
+414,La Red,es,AR,national,argentina,http://www.lared.am/,FALSE
+415,Metro 951,es,AR,national,argentina,http://www.metro951.com/home/,FALSE
+416,Mitre,es,AR,national,argentina,http://radiomitre.cienradios.com/,FALSE
+417,Radio Elmundo,es,AR,national,argentina,http://www.elmundo1070.com/,FALSE
+418,RQP,es,AR,national,argentina,http://www.rqp.fm/,FALSE
+419,Los Andres,es,AR,national,argentina,http://www.losandes.com.ar/,FALSE
+42,Sydney Morning Herald,en,AU,national,australia,http://www.smh.com.au/,FALSE
+420,Informate Salta,es,AR,national,argentina,http://informatesalta.com.ar/,FALSE
+421,MDZ,es,AR,national,argentina,http://www.mdzol.com/,FALSE
+422,Cadena 3,es,AR,national,argentina,http://www.cadena3.com/,FALSE
+423,Telam,es,AR,global,world,http://www.telam.com.ar/,FALSE
+424,La Gaceta,es,AR,global,world,http://www.lagaceta.com.ar/,FALSE
+425,Diario Democracia,es,AR,national,argentina,http://www.diariodemocracia.com/,FALSE
+426,Dia a dia,es,AR,national,argentina,http://www.diaadia.com.ar/,FALSE
+427,AVN,es,VE,global,world,http://www.avn.info.ve/,FALSE
+428,Cavespa,es,VE,national,venezuela,http://www.cavespa.com/,FALSE
+429,De Inmediato,es,VE,national,venezuela,http://deinmediato.com.ve/,FALSE
+43,Der Spiegel (en),en,DE,global,world,http://www.spiegel.de/,FALSE
+430,Noticias24,es,VE,global,world,http://www.noticias24.com/,FALSE
+431,Publicidad y Mercadeo,es,VE,national,venezuela,https://www.publicidadymercadeo.net/,FALSE
+432,VTV,es,VE,global,world,http://vtv.gob.ve/,FALSE
+433,Globovision,es,VE,global,world,http://globovision.com/,FALSE
+434,Televen,es,VE,national,venezuela,http://www.televen.com/,FALSE
+435,Venevision,es,VE,national,venezuela,http://www.venevision.com/,FALSE
+436,Actualidad Venezuela,es,VE,national,venezuela,http://actualidadvenezuela.org/,FALSE
+437,Circuitos Radio Venezuela,es,VE,national,venezuela,http://www.radiovenezuela.com.ve/beta/index.html,FALSE
+438,Exitos FM,es,VE,national,venezuela,http://exitosfm.com/,FALSE
+439,La Nueva Magica FM,es,VE,national,venezuela,http://magicafm.com/,FALSE
+44,The Telegraph,en,GB,global,world,http://www.telegraph.co.uk/,FALSE
+440,La Romantica FM,es,VE,national,venezuela,http://laromantica.fm/,FALSE
+441,Red Musik FM,es,VE,national,venezuela,http://www.redmusikfm.com/,FALSE
+442,Onda FM,es,VE,national,venezuela,http://ondalasuperestacion.com/,FALSE
+443,Planeta FM,es,VE,national,venezuela,http://www.planeta105fm.com/,FALSE
+444,Play FM,es,VE,national,venezuela,http://playfmnetwork.com/,FALSE
+445,Radio Capital FM,es,VE,national,venezuela,http://capital903fm.com/,FALSE
+446,Ven FM,es,VE,national,venezuela,http://www.venfm.com/advantafm/,FALSE
+447,Radion Mundial,es,VE,national,venezuela,http://www.radiomundial.com.ve/,FALSE
+448,Dinero,es,VE,national,venezuela,http://www.dinero.com.ve/,FALSE
+449,The Daily Progress,en,US,national,united states,http://www.dailyprogress.com/,FALSE
+45,The Australian,en,AU,global,world,http://www.theaustralian.com.au/,FALSE
+450,Star-Telegram,en,US,global,world,http://www.star-telegram.com/,FALSE
+451,The Korean Times,en,KR,global,world,https://www.koreatimes.co.kr,FALSE
+452,Orlando Sentinel,en,US,global,world,http://www.orlandosentinel.com/,FALSE
+453,SpaceCoast Daily,en,US,national,united states,http://spacecoastdaily.com/,FALSE
+454,Ottawa Citizen,en,CA,global,world,http://ottawacitizen.com/,FALSE
+455,Sputnik News,en,US,global,world,https://sputniknews.com/,FALSE
+456,The National,en,AE,global,world,http://www.thenational.ae/,FALSE
+457,Defense News,en,US,national,united states,http://www.defensenews.com/,TRUE
+458,Military Times,en,US,national,united states,https://www.militarytimes.com/,TRUE
+459,Air Force Times,en,US,national,united states,https://www.airforcetimes.com/,TRUE
+46,The East African,en,KE,global,world,http://www.theeastafrican.co.ke/,FALSE
+460,Newsmax,en,US,global,world,http://www.newsmax.com/,FALSE
+461,ThinkProgress,en,US,national,united states,https://thinkprogress.org/,FALSE
+462,The Atlantic,en,US,global,world,https://www.theatlantic.com/,FALSE
+463,San Francisco Chronicle,en,US,global,world,http://www.sfchronicle.com/,FALSE
+464,Greentech Media,en,US,global,world,https://www.greentechmedia.com,TRUE
+465,Christian Headlines,en,US,global,world,http://www.christianheadlines.com/rss/,FALSE
+466,Christian Post,en,US,global,world,http://www.christianpost.com/,FALSE
+467,Christian Today,en,US,global,world,http://www.christiantoday.com/,FALSE
+468,One News Now,en,US,national,world,http://www.onenewsnow.com/,FALSE
+469,Candy Industry,en,US,global,world,http://www.candyindustry.com/,FALSE
+47,The Ecologist,en,GB,global,world,http://www.theecologist.org/,TRUE
+470,CauseBecause,en,IN,national,india,http://causebecause.com/,TRUE
+471,Food & Beverages,en,AU,global,world,https://foodmag.com.au/,TRUE
+472,Environmental Leader,en,US,global,world,http://www.environmentalleader.com/,TRUE
+473,NY Daily News,en,US,global,world,http://www.nydailynews.com/,FALSE
+474,Whitman Wire,en,US,national,united states,http://whitmanwire.com/,FALSE
+475,Times Record,en,US,global,world,http://www.swtimes.com/,FALSE
+476,Packaging World,en,US,global,world,http://www.packworld.com/,TRUE
+477,Arkansas News,en,US,national,united states,http://www.arkansasnews.com/,FALSE
+478,Bakery and Snacks,en ,US,global,world,http://www.bakeryandsnacks.com/,TRUE
+479,Food Processing,en,US,global,world,http://www.foodprocessing.com/,TRUE
+48,The Globe and Mail,en,CA,global,world,http://www.theglobeandmail.com/,FALSE
+480,Food Safety Magazine,en,US,global,world,http://www.foodsafetymagazine.com/,TRUE
+481,Lincoln Journal Star,en,US,national,united states,http://journalstar.com/,FALSE
+482,Packaging Digest,en,US,national,united states,http://www.packagingdigest.com/,TRUE
+483,Good Fruit Grower,en,US,global,world,http://www.goodfruit.com/,TRUE
+484,Care2,en,US,global,world,http://www.care2.com/,TRUE
+485,Politico,en,US,national,united states,http://www.politico.com/,FALSE
+486,Confectionery News,en,US,global,world,http://www.confectionerynews.com/,TRUE
+487,Quality Assurance & Food Safety,en,US,global,world,http://www.qualityassurancemag.com/,TRUE
+488,The Mic,en,US,global,world,https://mic.com/,FALSE
+489,Rubber News,en,US,global,world,http://www.rubbernews.com/,TRUE
+49,Hindu Business Line,en,IN,national,india,http://www.thehindubusinessline.com/,FALSE
+490,Plastic News,en,US,global,world,http://www.plasticsnews.com/,TRUE
+491,Pension & Investment,en,US,national,united states,http://www.pionline.com/,TRUE
+492,TIrebusiness,en,US,global,world,http://www.tirebusiness.com/,TRUE
+493,Automotive News,en,US,global,world,http://www.autonews.com/,TRUE
+494,Smithsonian.com,en,US,global,world,http://www.smithsonianmag.com/,FALSE
+495,The Northbay Business Journal,en,US,national,united states,http://www.northbaybusinessjournal.com/,FALSE
+496,Mining Review Africa,en,ZA,global,world,https://www.miningreview.com/,TRUE
+497,EWeek,en,US,global,world,http://www.eweek.com/,FALSE
+498,Bangkok Post,en,TH,global,world,http://www.bangkokpost.com/,FALSE
+499,Slate,en,US,global,united states,http://www.slate.com/,FALSE
+5,Nova Gazeta,en,RU,national,russia,http://en.novayagazeta.ru/,FALSE
+50,The Local SE,en,SE,global,world,https://www.thelocal.se/,FALSE
+500,Livescience,en,US,global,world,http://www.livescience.com/,FALSE
+501,The Daily Beast,en,US,global,world,http://www.thedailybeast.com/,FALSE
+502,The Hill,en,US,global,world,http://thehill.com/,FALSE
+503,Newsy,en,US,global,world,http://www.newsy.com/,FALSE
+504,CNET,en,US,global,world,https://www.cnet.com/,FALSE
+505,Space.com,en,US,global,world,http://www.space.com/,FALSE
+506,The Philadelphia Citizen,en,US,national,united states,http://thephiladelphiacitizen.org/,FALSE
+507,The Denver Post,en,US,global,world,http://www.denverpost.com/,FALSE
+508,The Seattle Times,en,US,national,united states,http://www.seattletimes.com/,FALSE
+509,Pro Publica,en,US,global,world,https://www.propublica.org/,FALSE
+51,The Moscow Times,en,RU,national,russia,http://www.themoscowtimes.com/,FALSE
+510,Newsday,en,US,global,world,http://www.newsday.com/,FALSE
+511,UPI,en,US,global,world,http://www.upi.com/,TRUE
+512,Raw Story,en,US,national,united states,http://www.rawstory.com/,FALSE
+513,Consumerist,en,US,national,united states,https://consumerist.com/,FALSE
+514,Roll Call,en,US,national,united states,http://www.rollcall.com/,FALSE
+515,The Commercial Appeal,en,US,national,united states,http://www.commercialappeal.com/,TRUE
+516,South China Morning Post,en,CH,global,world,http://www.scmp.com/,FALSE
+517,Information Week,en,US,national,united states,http://www.informationweek.com/,FALSE
+518,Herald Sun,en,AU,global,world,http://www.heraldsun.com.au/,FALSE
+519,Deseret News,en,US,global,world,http://www.deseretnews.com/,FALSE
+52,The HK Standard,en,HK,national,hongkong,http://www.thestandard.com.hk/,FALSE
+520,Russia Today (RT),en,RU,global,world,https://www.rt.com/,FALSE
+521,The Chosunilbo,en,KR,global,world,http://english.chosun.com/,FALSE
+522,Hindustan Times,en,IN,global,world,http://www.hindustantimes.com/,FALSE
+523,Dutch News,en,NL,national,netherlands,http://www.dutchnews.nl/,FALSE
+524,Kyodo News,en,JP,national,japan,http://english.kyodonews.jp/,FALSE
+525,The West Australian ,en,AU,global,world,https://au.news.yahoo.com/thewest/,FALSE
+526,The Center for Public Integrity,en,US,national,united states,https://www.publicintegrity.org/,TRUE
+527,Crain's New York Business,en,US,national,united states,http://www.crainsnewyork.com/,TRUE
+528,The Star (Malaysia),en,MY,global,world,http://www.thestar.com.my/,FALSE
+529,IT Wire ,en,US,global,world,http://www.itwire.com/,FALSE
+53,TheStreet,en,US,global,world,http://www.thestreet.com/,FALSE
+530,WNYC,en,US,national,united states,http://www.wnyc.org/,FALSE
+531,El Pais,es,ES,global,world,http://www.elpais.com/,FALSE
+532,El Cronista,es,MX,global,world,http://elcronista.com.mx/,FALSE
+533,Times Colonist,en,CA,global,world,http://www.timescolonist.com/,FALSE
+534,Quanta Magazine,en,US,global,world,https://www.quantamagazine.org,FALSE
+535,Al Arabia,en,AE,global,world,https://english.alarabiya.net/,FALSE
+536,Pakistan Today,en,PK,global,world,http://www.pakistantoday.com.pk/,FALSE
+537,The Lawyer,en,GB,global,world,https://www.thelawyer.com/,FALSE
+538,The Daily Herald,en,US,national,united states,http://www.columbiadailyherald.com/,FALSE
+539,UK Market News,en,GB,national,united kingdom,http://www.ftsenews.co.uk/,FALSE
+54,Treehugger,en,GE,global,world,http://www.treehugger.com/,TRUE
+540,WATE,en,US,national,united states,http://wate.com/,TRUE
+541,WA Today,en,AU,global,world,http://www.watoday.com.au/,FALSE
+542,Tech News World,en,US,global,world,http://www.technewsworld.com/,FALSE
+543,The Huffington Post Australia,en,AU,global,world,http://www.huffingtonpost.com.au/,FALSE
+544,Euronews,en,FR,global,world,http://www.euronews.com/,FALSE
+545,GGR Asia,en,MO,regional,asia,https://www.ggrasia.com,FALSE
+546,Science,en,US,global,world,http://www.sciencemag.org/,FALSE
+547,Calgary Sun,en,CA,global,world,http://www.calgarysun.com/,FALSE
+548,Metro Weekly,en,US,national,united states,http://www.metroweekly.com/,FALSE
+549,Gulf News,en,AE,global,world,http://gulfnews.com/,FALSE
+55,Triple Pundit,en,US,global,world,http://www.triplepundit.com/,FALSE
+550,Boston Curbed,en,US,national,world,http://boston.curbed.com/,FALSE
+551,The Daily Record,en,US,national,united states,http://thedailyrecord.com/,FALSE
+552,Australian Times,en,GB,national,australia,http://www.australiantimes.co.uk/,FALSE
+553,Asharq Al-Awsat,en,GB,global,world,http://english.aawsat.com/,FALSE
+554,SiliconValley.com,en,US,national,united states,http://www.siliconvalley.com/,FALSE
+555,The Malibu Times,en,US,national,united states,http://www.malibutimes.com/,FALSE
+556,Investing.com,en,US,global,world,http://investing.com/,TRUE
+557,Minuto30,es,CO,global,world,http://www.minuto30.com/,FALSE
+558,MENA FN,en,JO,global,world,http://menafn.com/,FALSE
+559,Daily Monitor,en,UG,national,uganda,http://www.monitor.co.ug/,FALSE
+56,Wall Street Journal,en,US,global,world,http://www.wsj.com/,FALSE
+560,The Herald,en,ZW,national,zimbabwe,http://www.herald.co.zw/,FALSE
+561,New Zimbabwe,en,ZW,national,zimbabwe,http://www.newzimbabwe.com/,FALSE
+562,New Era,en,NA,national,namibia,https://www.newera.com.na/,FALSE
+563,Plus55,en,BR,national,brasil,http://plus55.com/,FALSE
+564,The Citizen,en,TZ,national,tanzania,http://www.thecitizen.co.tz/,FALSE
+565,The Star (KE),en,KE,national,kenya,http://www.the-star.co.ke/,FALSE
+566,EAStandard,en,KE,national,kenya,http://eastandard.net/,FALSE
+567,Africa Science News,en,KE,global,world,http://africasciencenews.org/,FALSE
+568,The National,en,NG,national,nigeria,http://thenationonlineng.net/,FALSE
+569,This Day,en,NG,national,nigeria,http://www.thisdaylive.com/,FALSE
+57,ZDNet,en,US,global,world,http://www.zdnet.com/,FALSE
+570,PM News NIgeria,en,NG,national,nigeria,http://www.pmnewsnigeria.com/,FALSE
+571,Point Blank News,en,NG,national,nigeria,http://pointblanknews.com/pbn/,FALSE
+572,Premium Times ,en,NG,national,nigeria,http://www.premiumtimesng.com/,FALSE
+573,African Spotlight,en,NG,national,nigeria,http://africanspotlight.com/,FALSE
+574,Business Day Online,en,NG,national,nigeria,http://www.businessdayonline.com/,FALSE
+575,Independent Nigeria,en,NG,national,nigeria,http://independentnig.com/,FALSE
+576,Desert Herald,en,NG,national,nigeria,http://desertherald.com/,FALSE
+577,Economic Confidential,en,NG,national,nigeria,http://economicconfidential.com/,FALSE
+578,The Copenhagen Post,en,DK,national,denmark,http://cphpost.dk/,FALSE
+579,The Swedish Wire,en,SE,national,sweden,http://www.swedishwire.com/,FALSE
+58,Yle News,en,FI,national,finland,http://yle.fi/,FALSE
+580,The Nordic Page,en,NO,national,norway,http://www.tnp.no/,FALSE
+581,Norway Today,en,NO,national,norway,http://norwaytoday.info/,FALSE
+582,The Foreigner Norway,en,NO,national,norway,http://theforeigner.no/,FALSE
+583,Aftenbladet,en,NO,global,world,http://www.aftenbladet.no/,FALSE
+584,Second Nexus,en,US,global,world,http://secondnexus.com/,FALSE
+585,Newstalk,en,NZ,national,new zealand,http://www.newstalkzb.co.nz/,FALSE
+586,Business Daily Africa,en,KE,regional,africa,http://www.businessdailyafrica.com/,FALSE
+587,A1 Plus,en,AM,national,armenia,http://en.a1plus.am,TRUE
+588,IFEX,en,TN,national,tunesia,http://www.ifex.org/,TRUE
+589,Civil,en,GE,national,georgia,http://www.civil.ge/eng/,FALSE
+59,Anadolu Agency,en,TR,global,world,https://www.aa.com.tr/,FALSE
+590,Army Technology,en,US,national,united states,http://www.army-technology.com/,TRUE
+591,Eurasianet,en,US,regional,EMEA,http://www.eurasianet.org/,FALSE
+592,Egypt Independent,en,EG,global,world,http://www.egyptindependent.com/,FALSE
+593,Art Matters,en,KE,regional,africa,http://artmatters.info/,FALSE
+594,Privacy International,en,GB,global,world,https://www.privacyinternational.org/,FALSE
+595,National News Bureau of Thailand,en,TH,national,thailand,http://thainews.prd.go.th/,FALSE
+596,Clacton and Frition Gazette,en,GB,national,united kingdom,http://www.clactonandfrintongazette.co.uk/,FALSE
+597,Kazakh TV,en,KZ,national,kazahkstan,http://kazakh-tv.kz/en/mainpage/index,FALSE
+598,Georgia and World,en,GE,global,world,http://geworld.net/NEW/en/,FALSE
+599,Panorama,en,AM,national,armenia,http://www.panorama.am/en/,FALSE
+6,Trends News Agency,en,AZ,global,world,http://en.trend.az/,FALSE
+60,The Guardian,en,GB,global,world,https://www.theguardian.com/,FALSE
+600,Belarus Today,en,BY,national,belarus,http://belarustoday.info/,FALSE
+601,Belarus News,en,BY,national,belarus,http://eng.belta.by/,FALSE
+602,Interfax Ukraine,en,UA,national,ukraine,http://en.interfax.com.ua/,FALSE
+603,Radio Free Europe,en,CZ,national,czech republic,http://www.rferl.org/,FALSE
+604,The Irrawaddy,en,TH,national,thailand,http://www.irrawaddy.com/,TRUE
+605,Arm Info,en,AM,national,armenia,http://www.arminfo.info/,FALSE
+606,Focus Taiwan,en,TW,national,taiwan,http://focustaiwan.tw/,FALSE
+607,Cafe Babel,en,GB,global,world,http://www.cafebabel.co.uk/,FALSE
+608,Internews,en,US,regional,africa,http://www.internews.org/,FALSE
+609,Romania Press,en,RO,national,romania,http://www.romaniapress.com/,FALSE
+61,The Washinton Post,en,US,global,world,https://www.washingtonpost.com/,FALSE
+610,Euroactiv,en,BE,regional,europe,http://www.euractiv.com/,FALSE
+611,JOC,en,US,global,world,http://www.joc.com/,FALSE
+612,Tamilnet,en,LK,national,sri lanka,http://www.tamilnet.com/,FALSE
+613,The Irish World,en,IE,national,ireland,http://www.theirishworld.com/,FALSE
+614,La Gazetta del Mezzogiorno,en,IT,global,world,http://www.lagazzettadelmezzogiorno.it/,FALSE
+615,Middle East Online,en,GB,regional,EMEA,http://www.middle-east-online.com/,FALSE
+616,ERR News,en,EE,global,world,http://news.err.ee/,FALSE
+617,Western Telegraph,en,GB,national,united kingdom,http://www.westerntelegraph.co.uk/,FALSE
+618,The Reykjavik Grapevine,en,IS,national,iceland,http://grapevine.is/,FALSE
+619,The Visitor,en,GB,national,united kingdom,http://www.thevisitor.co.uk/,FALSE
+62,Seeking Alpha,en,US,global,world,http://seekingalpha.com/,FALSE
+620,The Argus,en,GB,national,united kingdom,http://www.theargus.co.uk/,FALSE
+621,CPI Financial,en,AE,global,world,http://www.cpifinancial.net/,FALSE
+622,The Palestinian Information Center,en,PS,national,palestine,https://english.palinfo.com/,FALSE
+623,TASS,en,RU,global,world,http://tass.com/,FALSE
+624,Centre for Aviation,en,AU,global,world,http://centreforaviation.com/,TRUE
+625,Public Radio International,en,US,global,world,http://www.pri.org/,FALSE
+626,Daily Record,en,GB,global,world,http://www.dailyrecord.co.uk/,FALSE
+627,Ya Libnan,en,LB,global,world,http://yalibnan.com/,FALSE
+628,FriedlNews,en,AT,global,world,http://www.friedlnews.com/,TRUE
+629,UN Dispatch,en,US,global,world,http://www.undispatch.com/,TRUE
+63,Scientific American,en,US,global,world,https://www.scientificamerican.com/,FALSE
+630,Hot News,en,RO,national,romania,http://english.hotnews.ro/,FALSE
+631,Cyprus Mail,en,CY,global,world,http://cyprus-mail.com/,FALSE
+632,Farming Life,en,GB,national,united kingdom,http://www.farminglife.com/,TRUE
+633,Washington Examiner,en,US,national,united states,http://www.washingtonexaminer.com/,FALSE
+634,The Nation,en,US,global,world,https://www.thenation.com/,FALSE
+635,News Letter ,en,GB,national,united kingdom,http://www.newsletter.co.uk/,FALSE
+636,Homeland Security News Wire,en,US,national,united states,http://www.homelandsecuritynewswire.com/,FALSE
+637,In Cyprus,en,CY,global,world,http://in-cyprus.com/,FALSE
+638,Money Week,en,GB,global,world,http://moneyweek.com/,FALSE
+639,Jakarta Globe,en,ID,global,world,http://jakartaglobe.id/,FALSE
+64,Canal 52,es,MX,global,world,http://52mx.tv/,FALSE
+640,The Slovak Spectator,en,SK,global,world,http://spectator.sme.sk/,FALSE
+641,Associated Press of Pakistan,en,PK,global,world,http://www.app.com.pk/,FALSE
+642,Kuwait News Agency,en,KW,global,world,http://www.kuna.net.kw/,FALSE
+643,Pacific Island Report,en,US,national,united states,http://www.pireport.org/,FALSE
+644,Famagusta Gazette,en,CY,global,world,http://famagusta-gazette.com/,FALSE
+645,Tripoli Post,en,LY,national,libya,http://www.tripolipost.com/,FALSE
+646,Kuam News,en,GU,national,guam,http://www.kuam.com/,FALSE
+647,Luxemburger Wort,en,LU,global,world,http://www.wort.lu/en,FALSE
+648,Tech Crunch,en,US,global,world,https://techcrunch.com/,FALSE
+649,Planet Tonga,en,TO,national,tonga,http://www.planet-tonga.com/,FALSE
+65,China Labor Watch,en,CN,national,china,http://www.chinalaborwatch.org/,TRUE
+650,Phantis,en,GR,global,world,http://www.phantis.com/,FALSE
+651,ARKA,en,AM,global,world,http://arka.am/en/,FALSE
+652,The Malta Independent,en,MT,global,world,http://www.independent.com.mt/,FALSE
+653,Strabroek News,en,GY,national,guyana,http://www.stabroeknews.com/,FALSE
+654,972 Magazine ,en,IL,national,israel,https://972mag.com/,FALSE
+655,The Montserrat Reporter,en,MS,national,montserrat,https://themontserratreporter.com/,FALSE
+656,Ambergris Today,en,BZ,national,belize,http://www.ambergristoday.com/,FALSE
+657,Slingo Weekender,en,IE,national,ireland,http://sligoweekender.ie/,FALSE
+658,Caribarena,en,AG,national,antigua,http://www.caribantigua.com/,FALSE
+659,Zodiak Malawi,en,MW,national,malawi,http://zodiakmalawi.com/,FALSE
+66,Business of Fashion,en,US,global,world,https://www.businessoffashion.com/,FALSE
+660,Trade Arabia,en,BH,global,world,http://www.tradearabia.com/,FALSE
+661,KIMT,en,US,national,united states,http://kimt.com/,FALSE
+662,The Age,en,AU,global,world,http://www.theage.com.au/,FALSE
+663,Daily Maverick,en,ZA,global,world,https://www.dailymaverick.co.za/,FALSE
+664,The Himalayan,en,NP,global,world,http://thehimalayantimes.com/,FALSE
+665,TriState Update,en,US,national,united states,http://www.tristateupdate.com/,FALSE
+666,Pakistan Tribune,en,PK,global,world,http://www.pakistantribune.com.pk/,FALSE
+667,Zambia Daily Nation,en,ZM,national,zambia,https://zambiadailynation.com/,FALSE
+668,The Costa Rica News,en,CR,national,costa rica,http://thecostaricanews.com/,FALSE
+669,IAM Magazine,en,CA,global,world,http://www.iam-media.com/,FALSE
+67,Brand Channel,en,US,global,world,http://www.brandchannel.com/,FALSE
+670,Insider Zim,en,ZW,national,zimbabwe,http://www.insiderzim.com/,FALSE
+671,Maldives Independent,en,MV,national,maldives,http://maldivesindependent.com/,FALSE
+672,Boston.com,en,US,national,united states,http://www.boston.com/,FALSE
+673,Asbarez,en,AM,national,armenia,http://asbarez.com/,FALSE
+674,Chester Standard,en,GB,national,united kingdom,http://www.chesterstandard.co.uk/,FALSE
+675,The Meir Amit Intelligence and Terrorism Information Center,en,IL,global,world,http://www.terrorism-info.org.il/,FALSE
+676,Metro Eireann,en,IE,global,world,http://metroeireann.com/,FALSE
+677,Unian ,en,UA,national,ukraine,http://www.unian.info/,FALSE
+678,HTS St Lucia,en,LC,national,saint lucia,http://htsstlucia.org/,FALSE
+679,Clare FM,en,IE,national,ireland,http://www.clare.fm/,TRUE
+68,The Fashion Law,en,US,global,world,http://www.thefashionlaw.com/,TRUE
+680,Kuwait Times,en,KW,global,world,http://news.kuwaittimes.net/,FALSE
+681,DNA India,en,IN,global,world,http://www.dnaindia.com/,FALSE
+682,Shannonside,en,IE,national,ireland,http://shannonside.ie/,FALSE
+683,Salisbury Journal,en,GB,national,united kingdom,http://www.salisburyjournal.co.uk/,FALSE
+684,Kaieteur News,en,GY,national,guyana,http://www.kaieteurnewsonline.com/,FALSE
+685,Messenger Inquirer,en,KY,national,cayman islands,http://www.messenger-inquirer.com/,FALSE
+686,12 News,en,US,national,united states,http://www.12news.com/,FALSE
+687,Weekly Blitz,en,BG,global,world,http://www.weeklyblitz.net/,FALSE
+688,Guyana Chronicle,en,GY,national,guyana,http://guyanachronicle.com/,FALSE
+689,DCist,en,US,national,united states,http://dcist.com/,FALSE
+69,techcrunch,en,US,global,world,http://techcrunch.com/,FALSE
+690,Azernews,en,AZ,global,world,http://www.azernews.az/,FALSE
+691,Islamic Republic News Agency,en,IR,national,iran,http://www.irna.ir/en/,FALSE
+692,The Tico Times,en,CR,national,costa rica,http://www.ticotimes.net/,FALSE
+693,Vieuws,en,BE,regional,european union,http://www.vieuws.eu/,FALSE
+694,Lancaster Bee,en,US,national,united states,http://www.lancasterbee.com/,FALSE
+695,Uz Report,en,UZ,national,uzbekistan,http://uzreport.uz/,FALSE
+696,Daily Post,en,NG,national,nigeria,http://dailypost.ng/,FALSE
+697,Daily Star Lebanon,en,LB,global,world,http://www.dailystar.com.lb/,FALSE
+698,The Milli Gazette,en,IN,national,india,http://www.milligazette.com/,FALSE
+699,Latin America Herald Tribune,en,VE,regional,latin america,http://www.laht.com/index.asp,FALSE
+7,Associated Press,en,US,global,world,http://hosted.ap.org/,FALSE
+70,International Business Times US,en,US,global,world,http://www.ibtimes.com/,FALSE
+700,Emirates 24/7,en,AE,national,united arab emirates,http://www.emirates247.com/,FALSE
+701,Honolulu Star-Advertiser,en,US,national,united states,http://www.staradvertiser.com/,FALSE
+702,Mining News,en,AU,national,australia,http://www.miningnews.net/,TRUE
+703,The Palestine Chronicle,en,PS,national,palestine,http://www.palestinechronicle.com/,FALSE
+704,The Mindanao Examiner,en,PH,national,phillippines,http://mindanaoexaminer.com/,FALSE
+705,Asia Plus,en,TJ,national,tajikistan,http://news.tj/en,FALSE
+706,Wood Tv,en,US,national,united states,http://woodtv.com/,FALSE
+707,Tax News,en,GB,global,world,http://www.tax-news.com/,FALSE
+708,Lesotho Times,en,LS,national,lesotho,http://lestimes.com/,FALSE
+709,The Independent Uganda,en,UG,national,uganda,https://www.independent.co.ug/,FALSE
+71,International Business Times UK,en,GB,global,world,http://www.ibtimes.co.uk/,FALSE
+710,Yemen Times,en,YE,national,yemen,http://www.yementimes.com/,FALSE
+711,Spice Islander,en,GD,national,grenada,http://spiceislander.com/,FALSE
+712,First Post,en,IN,global,world,http://www.firstpost.com/,FALSE
+713,Pulse,en,NG,national,nigeria,http://pulse.ng/,FALSE
+714,Sport Fishing,en,US,national,united states,http://www.sportfishingmag.com/,TRUE
+715,Kent Online,en,GB,national,united kingdom,http://www.kentonline.co.uk/,FALSE
+716,The Messenger Online,en,GE,national,georgia,http://www.messenger.com.ge/,FALSE
+717,Haitian Truth,en,HT,national,haiti,http://www.haitian-truth.org/,FALSE
+718,World Fishing & Aquaculture,en,GB,global,world,http://www.worldfishing.net/,TRUE
+719,Hiawatha World Online,en,US,national,united states,http://www.hiawathaworldonline.com/,FALSE
+72,cnbc,en,US,global,world,http://www.cnbc.com/,FALSE
+720,Standard Times Press,en,SL,national,sierra leone,http://standardtimespress.org/,FALSE
+721,Granada Informer,en,GD,national,grenada,http://www.thegrenadainformer.com/,FALSE
+722,Seatrade Maritime News,en,GB,global,world,http://www.seatrade-maritime.com/,TRUE
+723,Knight News,en,US,national,united states,http://knightnews.com/,TRUE
+724,The Economic Times,en,IN,global,world,http://economictimes.indiatimes.com/,FALSE
+725,Europe's World,en,BE,regional,europe,http://europesworld.org/,FALSE
+726,The Post Lesotho,en,LS,national,lesotho,http://www.thepost.co.ls/,FALSE
+727,Republica Democratica de Timor-Leste,en,TL,national,east timor,http://timor-leste.gov.tl/,TRUE
+728,The Africa Report,en,FR,regional,africa,http://www.theafricareport.com/,FALSE
+729,The Nation,en,PK,national,pakistan,http://nation.com.pk/,FALSE
+73,Financial Times INTL,en,GB,global,world,http://www.ft.com/,FALSE
+730,Cameroon Online,en,CM,national,cameroon,http://www.cameroononline.org/,FALSE
+731,Sun Star,en,PH,national,phillippines,http://www.sunstar.com.ph/,FALSE
+732,Jamaica Information Service,en,JM,national,jamaica,http://jis.gov.jm/,FALSE
+733,BNO News,en,US,global,world,http://bnonews.com/,FALSE
+734,Rediff,en,IN,national,india,http://www.rediff.com/,FALSE
+735,Jeberti,en,ER,national,eritrea,http://www.jeberti.com/en/,FALSE
+736,St Lucia Star,en,LC,national,saint lucia,http://stluciastar.com/,FALSE
+737,The Daily,en,CZ,national,czech republic,http://www.thedaily.cz/,FALSE
+738,The Northern Echo,en,GB,national,united kingdom,http://www.thenorthernecho.co.uk/,FALSE
+739,The Korea Times,en,KR,global,world,http://www.koreatimes.co.kr/,FALSE
+74,Fast Company,en,US,national,usa,http://www.fastcompany.com/,FALSE
+740,The Dominican,en,DO,national,dominican republic,http://www.thedominican.net/,FALSE
+741,Bermuda Sun,en,BM,national,bermuda,http://www.bermudasun.org/,FALSE
+742,Minnesota Public Radio,en,US,national,united states,http://www.mprnews.org/,FALSE
+743,The Namibian,en,NA,national,namibia,http://www.namibian.com.na/,FALSE
+744,Oviation International,en,GH,global,world,http://ovationinternational.com/,FALSE
+745,WBTV,en,US,national,united states,http://www.wbtv.com/,FALSE
+746,The St Kitts and Nevis Observer,en,KN,national,saint kitts and nevis,http://www.thestkittsnevisobserver.com/,FALSE
+747,Sudan Vision Daily,en,SD,national,sudan,http://news.sudanvisiondaily.com/,FALSE
+748,INSEC Online,en,NP,national,nepal,http://inseconline.org/en/,FALSE
+749,Sunday World,en,IE,national,ireland,http://www.sundayworld.com/,FALSE
+75,The Toronto Star,en,CA,global,world,https://www.thestar.com/,FALSE
+750,Donegal Democrat,en,IE,national,ireland,http://www.donegaldemocrat.ie/,FALSE
+751,The Bahama Journal,en,BS,national,bahamas,http://jonesbahamas.com/,FALSE
+752,The Daily Star Bangladesh,en,BD,global,world,http://www.thedailystar.net/,FALSE
+753,World Nuclear News,en,GB,global,world,http://www.world-nuclear-news.org/,FALSE
+754,EU Inside,en,BG,regional,europe,http://www.euinside.eu/,FALSE
+755,World Maritime News,en,NL,global,world,http://worldmaritimenews.com/,TRUE
+756,Zambia Reports,en,ZM,national,zambia,https://zambiareports.com/,FALSE
+757,Pakistan Observer,en,PK,global,world,http://pakobserver.net/,FALSE
+758,The Diamond Loupe,en,NL,global,world,http://www.thediamondloupe.com/,TRUE
+759,Public Technology,en,GB,national,united kingdom,http://www.publictechnology.net/,TRUE
+76,France 24 (en),en,FR,global,world,http://www.france24.com/,FALSE
+760,The Cameroon Daily Journal,en,CM,national,cameroon,http://cameroonjournal.com/,FALSE
+761,24Tanzania,en,TZ,national,tanzania,http://24tanzania.com/,FALSE
+762,The Point,en,GM,national,gambia,http://thepoint.gm/,FALSE
+763,Swazi Observer,en,SZ,national,swaziland,http://www.observer.org.sz/,FALSE
+764,International Atomic Energy Agency,en,AT,global,world,https://www.iaea.org/,FALSE
+765,Tehran Times,en,IR,national,iran,http://tehrantimes.com/,FALSE
+766,eCanada Now,en,CA,national,canada,http://www.ecanadanow.com/,FALSE
+767,Air Transport World,en,US,global,world,http://atwonline.com/,TRUE
+768,The Leader,en,ES,national,spain,http://www.theleader.info/,TRUE
+769,The Railway Magazine,en,GB,national,united kingdom,http://www.railwaymagazine.co.uk/,TRUE
+77,SABC,en,ZA,global,world,http://www.sabc.co.za/,FALSE
+770,Tidal Today,en,IE,global,world,http://analysis.tidaltoday.com/,TRUE
+771,Electronics Components World,en,US,global,world,http://electronicscomponentsworld.com/,TRUE
+772,Colombo Page,en,LK,national,sri lanka,http://www.colombopage.com/,FALSE
+773,The Northern Miner,en,CA,global,world,http://www.northernminer.com/,TRUE
+774,Gurtong,en,SS,national,south sudan,http://www.gurtong.net/,FALSE
+775,Radio Tamazuj,en,SD,national,sudan,https://radiotamazuj.org/,FALSE
+776,Global Research,en,CA,global,world,http://www.globalresearch.ca/,TRUE
+777,Business Day,en,ZA,global,world,http://www.businesslive.co.za/,FALSE
+778,IMPEL (European Union Network for the Implementation and Enforcement of Environmental Law),en,BE,regional,europe,http://www.impel.eu/,TRUE
+779,Frontpage Magazine,en,US,national,united states,http://www.frontpagemag.com/,FALSE
+78,Punch,en,NG,global,world,http://www.punchng.com/,FALSE
+780,Sudan Tribune,en,SD,national,sudan,http://www.sudantribune.com/,FALSE
+781,Global Voices,en,NL,global,world,https://globalvoices.org/,FALSE
+782,Leinster Reader,en,IE,national,ireland,http://www.leinsterleader.ie/,FALSE
+783,Capital FM,en,KE,global,world,http://www.capitalfm.co.ke/,TRUE
+784,Lancaster Guardian,en,GB,national,united kingdom,http://www.lancasterguardian.co.uk/,FALSE
+785,Great Lakes Voice,en,RW,national,rwanda,http://greatlakesvoice.com/,FALSE
+786,NBC Radio,en,VC,national,saint vincent and the grenadines,http://www.nbcsvg.com/,FALSE
+787,Agence Kampuchea Presse,en,KH,national,cambodia,http://www.akp.gov.kh/,FALSE
+788,The Zimbabwean,en,ZW,national,zimbabwe,http://thezimbabwean.co/,FALSE
+789,News Day,en,ZW,national,zimbabwe,https://www.newsday.co.zw/,FALSE
+79,ABC au,en,AU,national,australia,http://www.abc.net.au/,FALSE
+790,Gulf Times,en,QA,national,qatar,http://www.gulf-times.com/,FALSE
+791,Vanguard News,en,NG,national,nigeria,http://www.vanguardngr.com/,FALSE
+792,Institute for Science and International Security,en,US,global,world,http://www.isis-online.org/,TRUE
+793,Mail and Guardian,en,ZA,global,world,http://mg.co.za/,FALSE
+794,Mining Engineering,en,US,global,world,http://me.smenet.org/,TRUE
+795,Asia One,en,SG,regional,asia,http://www.asiaone.com/,FALSE
+796,Havana Times,en,CU,national,cuba,http://www.havanatimes.org/,FALSE
+797,FARS News,en,IR,national,iran,http://en.farsnews.com/,TRUE
+798,Mizzima,en,MM,national,myanmar,http://www.mizzima.com/,FALSE
+799,Nippon News,en,JP,national,japan,http://www.nipponnews.net/,FALSE
+8,The Rio Times,en,BR,national,brazil,http://riotimesonline.com/,FALSE
+80,Irish Times,en,IE,global,world,http://www.irishtimes.com/,FALSE
+800,Public Radoin of Armenia,en,AM,national,armenia,http://www.armradio.am/,FALSE
+801,ARA News,en,SY,national,syria,http://aranews.net/,FALSE
+802,Japan Update,en,JP,national,japan,http://www.japanupdate.com/,FALSE
+803,The Herts Advertiser,en,GB,national,united kingdom,http://www.hertsad.co.uk/,FALSE
+804,Vietnam Net,en,VN,national,vietnam,http://english.vietnamnet.vn/,FALSE
+805,BD News24,en,BD,national,bangladesh,http://bdnews24.com/,FALSE
+806,Agencia EFE,en,ES,global,world,http://www.efe.com/efe/english/4,FALSE
+807,The Baltimore Sun,en,US,national,united states,http://www.baltimoresun.com/,FALSE
+808,Herald Argus,en,US,national,united states,http://www.heraldargus.com/,FALSE
+809,Mmegi Online,en,BW,national,botswana,http://www.mmegi.bw/,FALSE
+81,Business Standard,en,IN,global,world,http://www.business-standard.com/,FALSE
+810,The Northern Standard,en,IE,national,ireland,http://www.northernstandard.ie/,FALSE
+811,Tradewinds News,en,US,global,world,http://www.tradewindsnews.com/,FALSE
+812,The Nigerian Observer,en,NG,national,nigeria,http://nigerianobservernews.com/,FALSE
+813,Beta News,en,US,national,united states,https://betanews.com/,FALSE
+814,DISCOVER Magazine,en,us,global,world,http://discovermagazine.com/,FALSE
+815,Gizmodo,en,us,global,world,http://gizmodo.com/,FALSE
+816,io9,en,us,global,world,http://io9.gizmodo.com/,FALSE
+817,Mashable,en,us,global,world,http://mashable.com/,FALSE
+818,New York Post,en,us,global,world,http://nypost.com/,FALSE
+819,People Magazine,en,us,global,world,http://people.com/,FALSE
+82,Medecins sans frontieres,en,CH,global,world,http://www.msf.org/,TRUE
+820,Pitchfork,en,us,global,world,http://pitchfork.com/,TRUE
+821,Seed Magazine,en,us,global,world,http://seedmagazine.com/,TRUE
+822,Talking Points Memo,en,us,global,world,http://talkingpointsmemo.com/,TRUE
+823,Time Magazine,en,us,global,world,http://time.com/,FALSE
+824,Adweek,en,us,global,world,http://www.adweek.com/,FALSE
+825,Arizona Central,en,us,regional,"Arizona, USA",http://www.azcentral.com/,FALSE
+826,Bild,de,de,global,world,http://www.bild.de/,FALSE
+827,Billboard,en,us,global,world,http://www.billboard.com/,FALSE
+828,East Bay Times,en,us,global,world,http://www.eastbaytimes.com/,FALSE
+829,Empire Magazine,en,us,global,world,http://www.empireonline.com/,FALSE
+83,Reporters sans Frontieres,en,FR,global,world,https://rsf.org/,FALSE
+830,E! Magazine,en,us,global,world,http://www.eonline.com/,FALSE
+831,ESPN,en,us,global,world,http://www.espn.com/,FALSE
+832,Frankfurter Algemeine Zeitung,de,de,global,world,http://www.faz.net/,FALSE
+833,Fox News,en,us,global,world,http://www.foxnews.com/,FALSE
+834,Frankfurter Rundschau,de,de,local,"Frankfurt, DE",http://www.fr.de/,FALSE
+835,Detroit Free Press,en,us,local,"Detroit, USA",http://www.freep.com/,FALSE
+836,InStyle,en,us,global,world,http://www.instyle.co.uk/,FALSE
+837,Lifehacker,en,us,global,world,http://www.lifehacker.co.uk/,FALSE
+838,McKinsey Quarterly,en,us,global,world,http://www.mckinsey.com/,TRUE
+839,Mercury News,en,us,regional,"California, USA",http://www.mercurynews.com/,FALSE
+84,World Wildlife Fund,en,CH,global,world,http://www.worldwildlife.org/,TRUE
+840,The Mirror,uk,uk,global,world,http://www.mirror.co.uk/,FALSE
+841,MSNBC,en,us,global,world,http://www.msnbc.com/,FALSE
+842,MTV,en,us,global,world,http://www.mtv.com/,FALSE
+843,National Geographic,en,us,global,world,http://www.nationalgeographic.com/,FALSE
+844,Nielsen Wire,en,us,global,world,http://www.nielsen.com/,TRUE
+845,The Oregonian,en,us,global,world,http://www.oregonlive.com/,FALSE
+846,Philly Inquirer,en,us,local,"Philadelphia, USA",http://www.philly.com/,FALSE
+847,Rolling Stone,en,us,global,world,http://www.rollingstone.com/,FALSE
+848,San Diego The Union-Tribune,en,us,local,"San Diego, USA",http://www.sandiegouniontribune.com/,FALSE
+849,Science Channel,en,us,global,world,http://www.sciencechannel.com/,FALSE
+85,Oxfam,en,GB,global,world,https://www.oxfam.org/,TRUE
+850,SFGate,en,us,local,"San Francisco, USA",http://www.sfgate.com/,FALSE
+851,Social Media Today,en,us,global,world,http://www.socialmediatoday.com/,FALSE
+852,StarTribune,en,us,regional,"Minnesota, USA",http://www.startribune.com/,FALSE
+853,Stern,de,de,global,world,http://www.stern.de/,FALSE
+854,Taz,de,de,global,world,http://www.taz.de/,FALSE
+855,Tampa Bay Times,en,us,local,"Tampa, USA",http://www.tbo.com/,FALSE
+856,US Weekly,en,us,global,world,http://www.usmagazine.com/,FALSE
+857,Vanity Fair,en,us,global,world,http://www.vanityfair.com/,FALSE
+858,Die Zeit,de,de,global,world,http://www.zeit.de/,FALSE
+859,Ars Technica,en,us,global,world,https://arstechnica.com/,FALSE
+86,Friends of the Earth,en,NL,global,world,http://www.foei.org/,TRUE
+860,Harvard Business Review,en,us,global,world,https://hbr.org/,TRUE
+861,Dallas News,en,us,local,"Dallas, USA",https://www.dallasnews.com/,FALSE
+862,Engadget,en,us,global,world,https://www.engadget.com/,FALSE
+863,Fast Company,en,us,global,world,https://www.fastcompany.com/,FALSE
+864,Financial Times,en,us,global,world,https://www.ft.com/,FALSE
+865,New Scientist,en,us,global,world,https://www.newscientist.com/,FALSE
+866,New York Times,en,us,global,world,https://www.nytimes.com/,FALSE
+867,Science News,en,us,global,world,https://www.sciencenews.org/,FALSE
+868,The Sun,uk,uk,global,world,https://www.thesun.co.uk/,FALSE
+869,Times Magazine,en,us,global,world,https://www.thetimes.co.uk/,FALSE
+87,Amnesty International,en,GB,global,world,https://www.amnesty.org/,FALSE
+870,USA Today,en,us,global,world,https://www.usatoday.com/,FALSE
+871,World Economic Forum,en,us,global,world,https://www.weforum.org/,TRUE
+872,Die Welt,de,de,global,world,https://www.welt.de/,FALSE
+873,The White House,en,us,global,world,https://www.whitehouse.gov/,FALSE
+874,Wired,en,us,global,world,https://www.wired.com/,FALSE
+875,Wall Street Journal,en,us,global,world,https://www.wsj.com/,FALSE
+876,Yahoo! News,en,us,global,world,https://yahoo.com/,FALSE
+88,Global Environment Facility,en,US,global,world,https://www.thegef.org/,FALSE
+89,United Nations Environment Programme,en,KE,global,world,http://www.unep.org/,TRUE
+9,Al Jazeera (en),en,QA,global,world,http://www.aljazeera.com/,FALSE
+90,European Environment Agency,en,DK,global,world,http://www.eea.europa.eu/,TRUE
+91,Food and Agriculture Organization,en,IT,global,world,http://www.fao.org/,FALSE
+92,Unicef,en,US,global,world,http://www.unicef.org/,FALSE
+93,Transparency International,en,DE,global,world,http://www.transparency.org/,FALSE
+94,Conservation International,en,US,global,world,http://www.conservation.org/,FALSE
+95,EarthShare,en,US,global,world,http://www.earthshare.org/,TRUE
+96,The Nature Conservancy,en,US,global,world,http://www.nature.org/,TRUE
+97,Marine Stewardship Council,en,GB,global,world,https://www.msc.org/,TRUE
+98,Fairtrade International,en,DE,global,world,http://www.fairtrade.net/,TRUE
+99,Red Cross International,en,CH,global,world,https://www.icrc.org/,FALSE
