@@ -1,6 +1,8 @@
 # Freebie
 _A free database of news resources for information extraction_
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ### Resources
 
@@ -44,3 +46,8 @@ for resource in websources[:1]:
     print(resource)
 # {'source_id': '1', 'name': '3BL', 'language': 'en', 'cca': 'US', 'coverage': 'global', 'covered_area': 'world', 'url': 'https://www.3blmedia.com/'}
 ```
+
+
+### Contribution
+
+All contributions are wellcome. I'd be happy to review PRs or to receive any data that you would want added via [email](mailto:me@sasho.io).
