@@ -3,6 +3,21 @@
 Release History
 ---------------
 
+0.1.4
+++++++++++++++++++
+
+- fixed markdown in long description
+
+0.1.3
+++++++++++++++++++
+
+- fixed markdown in long description
+
+0.1.2
+++++++++++++++++++
+
+- updated long description
+
 0.1.1
 ++++++++++++++++++
 

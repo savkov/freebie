@@ -9,11 +9,16 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 with open('requirements.txt') as fh:
     install_requires = fh.read().splitlines()
+with open('README.md') as fh:
+    readme = fh.read()
+
 
 setup(
     name='freebie',
-    version='0.1.1',
+    version='0.1.4',
     description='A free database of news resources for information extraction',
+    long_description=readme,
+    long_description_content_type='text/markdown',
     author='Aleksandar Savkov',
     packages=find_packages(exclude=('test',)),
     zip_safe=True,
@@ -21,7 +26,6 @@ setup(
     license='GPL3',
     install_requires=install_requires,
     classifiers=[
-        'Intended Audience :: Information Extraction Researchers',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
