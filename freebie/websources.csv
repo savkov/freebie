@@ -891,4 +891,5 @@ source_id,name,language,cca,coverage,covered_area,url
 890,Pitchfork,en,US,world,global,https://pitchfork.com/
 891,Al Shahid,en,UK,regional,Arabic World,https://alshahidwitness.com/
 892,Middle East Eye,en,UK,regional,Arabic World,http://www.middleeasteye.net/
-893,Yekaterininburg Times,en,RU,regional,Ural, Russia,https://yekaterinburgtimes.com/
+893,Yekaterininburg Times,en,RU,regional,"Ural, Russia",https://yekaterinburgtimes.com/
+894,The Slovak Spectator,en,SK,national,Slovakia,https://spectator.sme.sk/
